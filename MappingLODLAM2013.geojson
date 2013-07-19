@@ -1,0 +1,2208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.514374,
+                    42.372025,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Amherst College",
+                "string": "Aaron Coburn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.005974,
+                    40.714352,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Smithsonian Cooper-Hewitt, National Design Museum in New York",
+                "string": "Aaron Straup Cope"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.749298,
+                    45.360184,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ville de ChÃ¢teauguay (5, boulevard D’Youville  Châteauguay (Québec) J6J 2P8 )",
+                "string": "Adam Sofineti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.56913,
+                    45.509548,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "LHMP/UQAM",
+                "string": "Ahmed Loubiri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.196465,
+                    44.477852,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University of Vermont",
+                "string": "Amber Billey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.578186,
+                    45.503582,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "McGill University Library, McGill University",
+                "string": "Amy Buckland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.116585,
+                    42.374187,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Digital Public Library of America, Harvard University, Cambridge, Massachusetts, United States",
+                "string": "Amy Rudersdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.614494,
+                    25.041145,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Institute of Information Science, Academia Sinica, Taipei Taiwan",
+                "string": "Andrea Wei-Ching Huang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.119553,
+                    42.406681,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tufts University",
+                "string": "Anne Sauer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3007,
+                    52.070499,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Europeana, National Library of the Netherlands, 2509 LK The Hague, Netherlands",
+                "string": "Antoine Isaac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.118935,
+                    49.28096,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "BC Libraries Cooperative (605 Robson Street, Suite 850, Vancouver BC V6B 5J3)",
+                "string": "Ben Hyman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.962036,
+                    -37.798725,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University of Melbourne",
+                "string": "Cate O'Neill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.480689,
+                    41.898727,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "(Ministry of Cultural Heritage and Activities) Ministero dei beni e delle attività culturali e del turismo - Via del Collegio Romano, 27 00186 Roma ",
+                "string": "Chiara Veninata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7789,
+                    -41.277016,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DigitalNZ, (National Library of New Zealand Te Puna Mātauranga o Aotearoa, Dockway, Guthrie Lane (off Aitken Street), Wellington, New Zealand",
+                "string": "Chris McDowall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.134148,
+                    51.525925,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wellcome Library, 183 Euston Road London NW1 2BE, United Kingdom",
+                "string": "Christopher Hilton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.005974,
+                    40.714352,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New York University, New York",
+                "string": "Corey A Harper"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.172813,
+                    36.114647,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University of Nevada, Las Vegas",
+                "string": "Cory Lampert"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.962959,
+                    40.692184,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pratt Institute, New York",
+                "string": "Cristina Pattuelli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.70379,
+                    40.416775,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ontology Engineering Group, Universidad PolitÃ©cnica de Madrid",
+                "string": "Daniel Vila-Suero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.553993,
+                    45.508671,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wikisource / Montreal",
+                "string": "David Cuenca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.005974,
+                    40.714352,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "NYPL Labs (New York Public Library)",
+                "string": "David Riordan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.118446,
+                    42.377804,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Harvard Library, Cambridge, Massachusetts, United States",
+                "string": "David Weinberger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.483055,
+                    42.446705,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cornell University Library, Ithaca NY 14853",
+                "string": "Dean Krafft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.537003,
+                    34.368168,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University of Mississippi Libraries, 1 Library Loop University of Mississippi, University, MS 38677",
+                "string": "Debra Riley-Huff"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.238327,
+                    32.875496,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "UC San Diego Library, 9500 Gilman Dr, La Jolla, CA 92093, United States",
+                "string": "Declan Fleming"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.55999,
+                    45.497082,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ville de Montréal",
+                "string": "Diane Mercier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.963394,
+                    40.779404,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Metropolitan Museum of Art",
+                "string": "Don Undeen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.831221,
+                    60.182518,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aalto University, Värmemansgränden 2, 02150 Espoo, Finland",
+                "string": "Eero HyvÃ¶nen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.578186,
+                    45.503582,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "School of Information Studies, McGill University",
+                "string": "Elaine Menard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.440308,
+                    33.980202,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Information Sciences Institute, USC, 4676 Admiralty Way, Marina del Rey, CA 90292",
+                "string": "Eleanor E. Fink"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.967041,
+                    -37.822433,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Culture Victoria, 2 Kavanagh St, Southbank 3006, Australia",
+                "string": "Eleanor Whitworth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.980064,
+                    40.747269,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SemanticWeb.com (475 Park Avenue South, 4th Floor New York, New York 10016)",
+                "string": "Eric Franzon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.50798,
+                    38.033554,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University of Virginia",
+                "string": "Eric Rochester"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.488965,
+                    41.882988,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Food and Agriculture Organization of the United Nations",
+                "string": "Fabrizio Celli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.21864,
+                    44.59676,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Istituto per i beni artistici culturali e naturali of the Emilia-Romagna Region",
+                "string": "Francesca Ricci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.553993,
+                    45.508671,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "MontrÃ©al, plaque tournante des Ã©changes, UniversitÃ© du QuÃ©bec Ã  Montreal",
+                "string": "GeneviÃ¨ve LÃ©tourneau-G."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.119824,
+                    51.511215,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "King's College London",
+                "string": "Geoff Browell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.56913,
+                    45.509548,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "UQAM - Université du Québec à Montréal",
+                "string": "Guy Deschenes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.573776,
+                    45.504677,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "McCord Museum, 690 Sherbrooke Street West, Montreal, Quebec  H3A 1E9",
+                "string": "Hugues Boily"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.578186,
+                    45.503582,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT) Schulich School of Music, McGill University",
+                "string": "Ichiro Fujinaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.204315,
+                    -33.867321,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Intersect Australia (Level 12 Lumley House, 309 Kent Street Sydney, NSW 2000 Australia)",
+                "string": "Ingrid Mason"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.576401,
+                    45.627892,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Quebec Treasury Board, 11100, boulevard du Golf, Anjou (Québec) H1J 2Y7",
+                "string": "Jalil Emmanuel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.987411,
+                    40.732254,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Metropolitan New York Library Council, 4  57 E 11th St, New York, NY 10003",
+                "string": "Jason Kucsma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.561852,
+                    45.515282,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "BibliothÃ¨que et Archives nationales du QuÃ©bec (Library and National Archives of Quebec)",
+                "string": "Jean-Francois Gauvin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.347984,
+                    41.146976,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kent State, 800 E Summit St, Kent, OH 44240",
+                "string": "Jeff Mixter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.987411,
+                    40.732254,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Metropolitan New York Library Council, 4  57 E 11th St, New York, NY 10003",
+                "string": "Jefferson Bailey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.332382,
+                    37.574085,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Knowledge Motifs LLC, 448 E Ellsworth Court San Mateo, CA 94401-2429",
+                "string": "Jerry Persons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.475029,
+                    34.078808,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The J. Paul Getty Trust, 1200 Getty Center Dr, Los Angeles, CA, United States ‎",
+                "string": "Joan Cobb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.56913,
+                    45.509548,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "UQAM, Université du Québec à Montréal",
+                "string": "Joanne Burgess"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.058142,
+                    53.279251,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DERI, NUI Galway",
+                "string": "Jodi Schneider"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.026009,
+                    38.891335,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Smithsonian Libraries, 1000 Constitution Ave NW, Washington, DC",
+                "string": "Joel Richard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.166897,
+                    52.229172,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Netherlands Institute for Sound and Vision, Sumatralaan 45, 1200 BB Hilversum, Netherlands",
+                "string": "Johan Oomen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.102008,
+                    51.521481,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Historypin/We Are What We Do, (71 St John Street London, EC1M 4NJ, United Kingdom)     ",
+                "string": "Jon Voss"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.351273,
+                    41.153751,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "School of Library and Information Science, Kent State University,  Kent, OH 44242-0001",
+                "string": "Karen Gracy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.310417,
+                    48.461918,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University of Victoria",
+                "string": "Kathleen Matthews"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.934258,
+                    51.540115,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Confederation of Open Access Repositories, Göttingen State and University Library, Platz der Göttinger Sieben 1, 37073 Göttingen Germany",
+                "string": "Kathleen Shearer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.514374,
+                    42.372025,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Amherst College",
+                "string": "Kelcy Shepherd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.012466,
+                    -27.49551,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The University of Queensland, Australia",
+                "string": "Kerry Kilner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.984718,
+                    39.737568,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University of Denver",
+                "string": "Kevin Clair"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.004723,
+                    38.888683,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Library of Congress",
+                "string": "Kevin Ford"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.657356,
+                    40.349422,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Princeton University Library, 1 Washington Rd, Princeton, NJ 08544, United States",
+                "string": "Kevin Reiss"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.325935,
+                    33.7981,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Emory University Libraries, 201 Dowman Drive, Atlanta, Ga. 30322",
+                "string": "Laura Akerman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.92234,
+                    41.316322,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Yale University",
+                "string": "Lec Maj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.882431,
+                    45.400993,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "UniversitÃ© de Sherbrooke",
+                "string": "LÃ©on Robichaud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.730247,
+                    47.571014,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Memorial University of Newfoundland",
+                "string": "Lisa Goddard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.585892,
+                    45.490215,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SociÃ©tÃ© des amis de Jacques Ferron, Sherbrooke St W & Atwater Ave, Montreal, QC H3H, Canada",
+                "string": "Luc Gauvreau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.543648,
+                    45.502319,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Centre dâ€™expertise numÃ©rique pour la recherche, Université de Montréal, PO Box 6128, Station Centre-ville Montréal QC, H3C 3J7",
+                "string": "Luc Grondin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.543648,
+                    45.502319,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "EBSI, Université de Montréal, PO Box 6128, Station Centre-ville Montréal QC, H3C 3J7 ",
+                "string": "Lyne Da Sylva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.720322,
+                    45.425312,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Canadian Heritage Information Network (CHIN), 15 Eddy Street, (15-4-A), Gatineau, Quebec Canada K1A 0M5",
+                "string": "Madeleine Lafaille"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6744,
+                    45.535725,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "GTN-Québec",
+                "string": "Marc-Antoine Parent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.345772,
+                    41.146622,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kent State University, 800 E Summit St, Kent, OH 44240, United States",
+                "string": "Marcia Zeng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.881966,
+                    43.078262,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "School of Information Studies, University of Wisconsin-Milwaukee",
+                "string": "Margaret Kipp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.316315,
+                    42.693356,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mozaika, Ovcha kupel, Bulgaria",
+                "string": "Mariana Damova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.121618,
+                    51.533798,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "figshare, Digital Science, The Macmillan Building, 4 Crinan Street London, N19XW",
+                "string": "Mark Hahnel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.683675,
+                    50.131584,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "German National Library, Adickesallee 1, 60322 Frankfurt, Germany",
+                "string": "Markus Michael Geipel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.553993,
+                    45.508671,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "(Ministère de la Culture et des Communications) 2050, rue De Bleury, RC 10 MONTRÉAL",
+                "string": "Mathieu Rocheleau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.962959,
+                    40.692184,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pratt Institute",
+                "string": "Matt Miller"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.576271,
+                    45.52739,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ajah / Montreal Ouvert, 1124 Marie-Anne E., suite 11 Montreal, QC H2J 2B7",
+                "string": "Michael Lenczner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.543648,
+                    45.502319,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "ÉcolePolytechnique de Montréal, Département de génie informatique, C.P. 6079 succ. Centre-ville, Montréal (Québec) Canada  H3C 3A7  ",
+                "string": "Michel Gagnon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.378235,
+                    43.657688,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ryerson University",
+                "string": "MJ Suhonos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.444985,
+                    42.462719,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "GNOSS, Piqueras Street, 31 4th floor, Logroño, La Rioja",
+                "string": "Pablo Hermoso de Mendoza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.561852,
+                    45.515282,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "BibliothÃ¨que et Archives nationales du QuÃ©bec (Library and National Archives of Quebec)",
+                "string": "Pat Riva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.561852,
+                    45.515282,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "BibliothÃ¨que et Archives nationales du QuÃ©bec (Library and National Archives of Quebec)",
+                "string": "Patrick M. Lozeau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.285126,
+                    34.022339,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University of Southern California",
+                "string": "Pedro Szekely"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.169716,
+                    37.427475,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stanford University",
+                "string": "Peter Mangiafico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.116585,
+                    42.374187,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Countway Library of Medicine, Harvard University, 1350 Massachusetts Ave, Cambridge, MA, United States",
+                "string": "Peter Rolla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.169716,
+                    37.427475,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stanford University",
+                "string": "Philip Schreur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.040611,
+                    38.908077,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Digital Library Federation, 1707 L Street NW, Suite 650, Washington, DC 20036 ",
+                "string": "Rachel Frick"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.400932,
+                    42.405239,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Michigan State University",
+                "string": "Ranti Junus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.444985,
+                    42.462719,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "GNOSS, Piqueras Street, 31 4th floor, Logroño, La Rioja",
+                "string": "Ricardo Alonso Maturana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.618073,
+                    30.378078,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Florida State Univeristy",
+                "string": "Richard Urban"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.126205,
+                    40.102654,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "OCLC, 6565 Kilgour Place, Dublin 43017, Ohio US",
+                "string": "Richard Wallis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.005974,
+                    40.714352,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Columbia University, New York",
+                "string": "Robert Hilliker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.696022,
+                    45.387581,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Carleton University",
+                "string": "Robert Warren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.375697,
+                    48.83366,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "BnF, National Library of France ",
+                "string": "Romain Wenz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.190567,
+                    -33.889915,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The University of Sydney",
+                "string": "Rowan Brownlee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.727085,
+                    51.047085,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ghent University â€“ iMinds â€“ Multimedia Lab, Sint-Pietersnieuwstraat 33 9000 Gent, Belgium",
+                "string": "Ruben Verborgh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.395053,
+                    63.430515,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "NTNU, Høgskoleringen 1, 7491 Trondheim, Norway",
+                "string": "Rurik Thomas Greenall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.962769,
+                    40.779144,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Metropolitan Museum of Art",
+                "string": "Ryan Donahue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.153537,
+                    52.234035,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Open Knowledge Foundation, St John’s Innovation Centre, Cowley Road, Cambridge, CB4 0WS, United Kingdom ",
+                "string": "Sam Leon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.103256,
+                    42.364758,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "MIT Libraries, 77 Massachusetts Ave #14S-216, Cambridge, MA 02139",
+                "string": "Sands Fish"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.093826,
+                    42.358868,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Massachusetts Institute of Technology (MIT), US",
+                "string": "Sean Thomas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.269676,
+                    46.779247,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "UniversitÃ© Laval, 2325 Rue de l'Université  Québec, QC G1V 0A6 ",
+                "string": "SÃ©bastien Nadeau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35171,
+                    50.850342,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "UniversitÃ© libre de Bruxelles",
+                "string": "Seth van Hooland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.465129,
+                    41.917938,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "regesta.exe, via monte zebio 19 – 00195 roma, Italy",
+                "string": "Silvia Mazzini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.172813,
+                    36.114647,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University of Nevada, Las Vegas",
+                "string": "Silvia Southwick"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.981766,
+                    40.752068,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cornell University, New York",
+                "string": "Simeon Warner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.403985,
+                    43.723839,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Net7, Via Marche, 10, 56123 Pisa, Italia",
+                "string": "Simone Fonda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.20211,
+                    46.815121,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Musée de la civilisation, 85 rue Dalhousie, P.O. Box 155, Station B, Québec City, Québec, Canada, G1K 8R2 ",
+                "string": "Sophie Couture Samson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.402565,
+                    41.826717,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brown University, Providence, RI 02912",
+                "string": "Ted Lawless"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.265945,
+                    40.00758,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University of Colorado Boulder",
+                "string": "Thea Lindquist"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.278969,
+                    44.562855,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oregon State University",
+                "string": "Thomas Johnson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.225639,
+                    40.112732,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University of Illinois at UC, Grainger Engineering Library Information Center, 157 Grainger Library (MC-274) 1301 W. Springfield Ave. Urbana, IL 61801",
+                "string": "Timothy Cole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.578735,
+                    45.497108,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Concordia University, Montreal, Quebec",
+                "string": "Tomasz Neugebauer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.981674,
+                    40.752262,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The New York Public Library",
+                "string": "Trevor Thornton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.614487,
+                    25.043406,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Academia Sinica, Taipei, Taiwan",
+                "string": "Tyng-Ruey Chuang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.345703,
+                    42.68745,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ontotext Corp, Polygraphia Office Center fl.4, 47A Tsarigradsko Shosse, Sofia 1124, Bulgaria",
+                "string": "Vladimir Alexiev"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.985123,
+                    40.742432,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mendeley, 360 Park Ave S, New York, NY 10010",
+                "string": "William Gunn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.120163,
+                    51.511734,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "BBC R&D, BBC Broadcasting House, Portland Place London W1A 1AA, London  ",
+                "string": "Yves Raimond"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.47155,
+                    37.782307,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Open Library",
+                "string": "http://openlibrary.org/data"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.125999,
+                    51.517929,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "British Museum Collection",
+                "string": "http://collection.britishmuseum.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.356251,
+                    53.905682,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "British National Bibliography",
+                "string": "http://bnb.data.bl.uk/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126753,
+                    51.529251,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "British National Bibliography (BNB) - Linked Open Data",
+                "string": "http://bnb.data.bl.uk/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.450465,
+                    47.069382,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "COLINDA - Conference Linked Data",
+                "string": "http://www.colinda.org/index.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.690232,
+                    40.423759,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "datos.bne.es",
+                "string": "http://datos.bne.es"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.463224,
+                    49.485447,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DBLP Bibliography Database in RDF (FU Berlin)",
+                "string": "http://datahub.io/dataset/fu-berlin-dblp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.404351,
+                    50.909698,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DBLP Computer Science Bibliography (RKBExplorer)",
+                "string": "http://dblp.rkbexplorer.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.71264,
+                    52.388592,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DBLP in RDF (L3S)",
+                "string": "http://dblp.l3s.de/d2r/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.110329,
+                    51.518253,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "English Heritage Places",
+                "string": "http://kasabi.com/dataset/english-heritage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.330837,
+                    52.003227,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Europeana Linked Open Data",
+                "string": "http://data.europeana.eu/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.039612,
+                    47.495369,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hungrarian National Library",
+                "string": "http://nektar.oszk.hu/wiki/Semantic_web"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.678802,
+                    42.730171,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "IEEE VIS Source Data",
+                "string": "http://ieeevis.tw.rpi.edu/index.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.450465,
+                    47.069382,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "J.UCS Journal of Universal Computer Science",
+                "string": "http://jucs.org:8181/d2rq/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.935424,
+                    50.934082,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "lobid. Bibliographic Resources Popular",
+                "string": "http://thedatahub.org/dataset/hbz_unioncatalog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.90173,
+                    52.481487,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Open Library data mirror in the Talis Platform Popular",
+                "string": "http://api.talis.com/stores/openlibrary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.404351,
+                    50.909698,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "RKB Explorer Data",
+                "string": "http://www.rkbexplorer.com/data/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.980064,
+                    40.747269,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Semantic Universe Data",
+                "string": "http://data.semanticuniverse.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.379944,
+                    49.009148,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Semantic Web Dog Food Corpus",
+                "string": "http://data.semanticweb.org"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.064911,
+                    59.32893,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Swedish Open Cultural Heritage",
+                "string": "http://www.ksamsok.se/in-english/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.526543,
+                    42.391075,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The ClueWeb09 Dataset",
+                "string": "http://www.lemurproject.org/clueweb09/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.68847,
+                    49.745762,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The DBLP Computer Science Bibliography",
+                "string": "http://dblp.org/db/  ; http://dblp.uni-trier.de/xml/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.890401,
+                    52.486244,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Theatricalia",
+                "string": "http://theatricalia.com/search"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.624175,
+                    54.969559,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tyne and Wear Museums Collections (Imagine)",
+                "string": "http://datahub.io/dataset/twam_imagine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.097458,
+                    39.002361,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "VIVO packages",
+                "string": "http://vivoweb.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.404351,
+                    50.909698,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Web Science Conference (RKBExplorer)",
+                "string": "http://webscience.rkbexplorer.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.316315,
+                    42.693356,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mozaika, Sofia "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.265472,
+                    44.981647,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Data Bindery & Data Curation Experts"
+            }
+        }
+    ]
+}

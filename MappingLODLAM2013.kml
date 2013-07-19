@@ -1,0 +1,3405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Mapping LODLAM 2013</name>
+  <description><![CDATA[Square represents the participant; The yellow computer means datasets releasing to LOD. 
+**Note**
+**Apologize for the confusion. If you want to edit the map, you have to use gmail to sign in. I thought gmail will auto-link to his/her non-gmail account (people provide their alternative e-mail accounts when they apply gmail, theoretically they are associated with the same person.) Thanks for some people's remindings. (
+On a second thought, this is good for the personal privacy protection.) 
+
+Therefore, if you want to edit the map but the original shared account is not gmail, let me know your gmail and it will be added soon.   
+
+ ]]></description>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style130">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style113">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style119">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style142">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style127">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style98">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style122">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style92">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style108">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style111">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style126">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style133">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style135">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style141">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style99">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style143">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style100">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style114">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style138">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style145">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style147">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style136">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style107">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style124">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style87">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style120">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style109">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style112">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style97">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style125">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style116">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style106">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style117">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style90">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style134">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style91">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style115">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style93">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style104">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style94">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style96">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style101">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style102">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style146">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style131">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style132">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style137">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style128">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style144">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style95">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style140">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style88">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style103">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style139">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style110">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style89">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style123">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style121">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style118">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style129">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style105">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Amherst College</name>
+    <Snippet>Full Name: Aaron Coburn</Snippet>
+    <description><![CDATA[Full Name: Aaron Coburn]]></description>
+    <styleUrl>#style72</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Aaron Coburn</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.514374,42.372025,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Smithsonian Cooper-Hewitt, National Design Museum in New York</name>
+    <Snippet>Full Name: Aaron Straup Cope</Snippet>
+    <description><![CDATA[Full Name: Aaron Straup Cope]]></description>
+    <styleUrl>#style15</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Aaron Straup Cope</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-74.005974,40.714352,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ville de ChÃ¢teauguay (5, boulevard D’Youville  Châteauguay (Québec) J6J 2P8 )</name>
+    <Snippet>Full Name: Adam Sofineti</Snippet>
+    <description><![CDATA[Full Name: Adam Sofineti]]></description>
+    <styleUrl>#style130</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Adam Sofineti</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.749298,45.360184,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>LHMP/UQAM</name>
+    <Snippet>Full Name: Ahmed Loubiri</Snippet>
+    <description><![CDATA[Full Name: Ahmed Loubiri]]></description>
+    <styleUrl>#style34</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Ahmed Loubiri</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.569130,45.509548,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>University of Vermont</name>
+    <Snippet>Full Name: Amber Billey</Snippet>
+    <description><![CDATA[Full Name: Amber Billey]]></description>
+    <styleUrl>#style68</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Amber Billey</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.196465,44.477852,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>McGill University Library, McGill University</name>
+    <Snippet>Full Name: Amy Buckland</Snippet>
+    <description><![CDATA[Full Name: Amy Buckland]]></description>
+    <styleUrl>#style64</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Amy Buckland</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.578186,45.503582,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Digital Public Library of America, Harvard University, Cambridge, Massachusetts, United States</name>
+    <Snippet>Full Name: Amy Rudersdorf</Snippet>
+    <description><![CDATA[Full Name: Amy Rudersdorf]]></description>
+    <styleUrl>#style113</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Amy Rudersdorf</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.116585,42.374187,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Institute of Information Science, Academia Sinica, Taipei Taiwan</name>
+    <Snippet>Full Name: Andrea Wei-Ching Huang</Snippet>
+    <description><![CDATA[Full Name: Andrea Wei-Ching Huang]]></description>
+    <styleUrl>#style9</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Andrea Wei-Ching Huang</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>121.614494,25.041145,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tufts University</name>
+    <Snippet>Full Name: Anne Sauer</Snippet>
+    <description><![CDATA[Full Name: Anne Sauer]]></description>
+    <styleUrl>#style31</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Anne Sauer</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.119553,42.406681,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Europeana, National Library of the Netherlands, 2509 LK The Hague, Netherlands</name>
+    <Snippet>Full Name: Antoine Isaac</Snippet>
+    <description><![CDATA[Full Name: Antoine Isaac]]></description>
+    <styleUrl>#style119</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Antoine Isaac</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>4.300700,52.070499,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BC Libraries Cooperative (605 Robson Street, Suite 850, Vancouver BC V6B 5J3)</name>
+    <Snippet>Full Name: Ben Hyman</Snippet>
+    <description><![CDATA[Full Name: Ben Hyman]]></description>
+    <styleUrl>#style142</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Ben Hyman</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-123.118935,49.280960,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>University of Melbourne</name>
+    <Snippet>Full Name: Cate O&#39;Neill</Snippet>
+    <description><![CDATA[Full Name: Cate O'Neill]]></description>
+    <styleUrl>#style30</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Cate O&#39;Neill</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>144.962036,-37.798725,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>(Ministry of Cultural Heritage and Activities) Ministero dei beni e delle attività culturali e del turismo - Via del Collegio Romano, 27 00186 Roma </name>
+    <Snippet>Full Name: Chiara Veninata</Snippet>
+    <description><![CDATA[Full Name: Chiara Veninata]]></description>
+    <styleUrl>#style80</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Chiara Veninata</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>12.480689,41.898727,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DigitalNZ, (National Library of New Zealand Te Puna Mātauranga o Aotearoa, Dockway, Guthrie Lane (off Aitken Street), Wellington, New Zealand</name>
+    <Snippet>Full Name: Chris McDowall</Snippet>
+    <description><![CDATA[Full Name: Chris McDowall]]></description>
+    <styleUrl>#style25</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Chris McDowall</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>174.778900,-41.277016,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wellcome Library, 183 Euston Road London NW1 2BE, United Kingdom</name>
+    <Snippet>Full Name: Christopher Hilton</Snippet>
+    <description><![CDATA[Full Name: Christopher Hilton]]></description>
+    <styleUrl>#style86</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Christopher Hilton</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-0.134148,51.525925,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>New York University, New York</name>
+    <Snippet>Full Name: Corey A Harper</Snippet>
+    <description><![CDATA[Full Name: Corey A Harper]]></description>
+    <styleUrl>#style44</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Corey A Harper</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-74.005974,40.714352,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>University of Nevada, Las Vegas</name>
+    <Snippet>Full Name: Cory Lampert</Snippet>
+    <description><![CDATA[Full Name: Cory Lampert]]></description>
+    <styleUrl>#style127</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Cory Lampert</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-115.172813,36.114647,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pratt Institute, New York</name>
+    <Snippet>Full Name: Cristina Pattuelli</Snippet>
+    <description><![CDATA[Full Name: Cristina Pattuelli]]></description>
+    <styleUrl>#style69</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Cristina Pattuelli</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.962959,40.692184,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ontology Engineering Group, Universidad PolitÃ©cnica de Madrid</name>
+    <Snippet>Full Name: Daniel Vila-Suero</Snippet>
+    <description><![CDATA[Full Name: Daniel Vila-Suero]]></description>
+    <styleUrl>#style18</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Daniel Vila-Suero</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-3.703790,40.416775,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wikisource / Montreal</name>
+    <Snippet>Full Name: David Cuenca</Snippet>
+    <description><![CDATA[Full Name: David Cuenca]]></description>
+    <styleUrl>#style43</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>David Cuenca</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.553993,45.508671,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NYPL Labs (New York Public Library)</name>
+    <Snippet>Full Name: David Riordan</Snippet>
+    <description><![CDATA[Full Name: David Riordan]]></description>
+    <styleUrl>#style98</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>David Riordan</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-74.005974,40.714352,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harvard Library, Cambridge, Massachusetts, United States</name>
+    <Snippet>Full Name: David Weinberger</Snippet>
+    <description><![CDATA[Full Name: David Weinberger]]></description>
+    <styleUrl>#style28</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>David Weinberger</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.118446,42.377804,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cornell University Library, Ithaca NY 14853</name>
+    <Snippet>Full Name: Dean Krafft</Snippet>
+    <description><![CDATA[Full Name: Dean Krafft]]></description>
+    <styleUrl>#style6</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Dean Krafft</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-76.483055,42.446705,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>University of Mississippi Libraries, 1 Library Loop University of Mississippi, University, MS 38677</name>
+    <Snippet>Full Name: Debra Riley-Huff</Snippet>
+    <description><![CDATA[Full Name: Debra Riley-Huff]]></description>
+    <styleUrl>#style122</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Debra Riley-Huff</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-89.537003,34.368168,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UC San Diego Library, 9500 Gilman Dr, La Jolla, CA 92093, United States</name>
+    <Snippet>Full Name: Declan Fleming</Snippet>
+    <description><![CDATA[Full Name: Declan Fleming]]></description>
+    <styleUrl>#style39</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Declan Fleming</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-117.238327,32.875496,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ville de Montréal</name>
+    <Snippet>Full Name: Diane Mercier</Snippet>
+    <description><![CDATA[Full Name: Diane Mercier]]></description>
+    <styleUrl>#style26</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Diane Mercier</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.559990,45.497082,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Metropolitan Museum of Art</name>
+    <Snippet>Full Name: Don Undeen</Snippet>
+    <description><![CDATA[Full Name: Don Undeen]]></description>
+    <styleUrl>#style54</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Don Undeen</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.963394,40.779404,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Aalto University, Värmemansgränden 2, 02150 Espoo, Finland</name>
+    <Snippet>Full Name: Eero HyvÃ¶nen</Snippet>
+    <description><![CDATA[Full Name: Eero HyvÃ¶nen]]></description>
+    <styleUrl>#style5</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Eero HyvÃ¶nen</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>24.831221,60.182518,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>School of Information Studies, McGill University</name>
+    <Snippet>Full Name: Elaine Menard</Snippet>
+    <description><![CDATA[Full Name: Elaine Menard]]></description>
+    <styleUrl>#style40</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Elaine Menard</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.578186,45.503582,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Information Sciences Institute, USC, 4676 Admiralty Way, Marina del Rey, CA 90292</name>
+    <Snippet>Full Name: Eleanor E. Fink</Snippet>
+    <description><![CDATA[Full Name: Eleanor E. Fink]]></description>
+    <styleUrl>#style11</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Eleanor E. Fink</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-118.440308,33.980202,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Culture Victoria, 2 Kavanagh St, Southbank 3006, Australia</name>
+    <Snippet>Full Name: Eleanor Whitworth</Snippet>
+    <description><![CDATA[Full Name: Eleanor Whitworth]]></description>
+    <styleUrl>#style55</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Eleanor Whitworth</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>144.967041,-37.822433,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SemanticWeb.com (475 Park Avenue South, 4th Floor New York, New York 10016)</name>
+    <Snippet>Full Name: Eric Franzon</Snippet>
+    <description><![CDATA[Full Name: Eric Franzon]]></description>
+    <styleUrl>#style92</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Eric Franzon</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.980064,40.747269,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>University of Virginia</name>
+    <Snippet>Full Name: Eric Rochester</Snippet>
+    <description><![CDATA[Full Name: Eric Rochester]]></description>
+    <styleUrl>#style60</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Eric Rochester</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-78.507980,38.033554,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Food and Agriculture Organization of the United Nations</name>
+    <Snippet>Full Name: Fabrizio Celli</Snippet>
+    <description><![CDATA[Full Name: Fabrizio Celli]]></description>
+    <styleUrl>#style10</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Fabrizio Celli</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>12.488965,41.882988,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Istituto per i beni artistici culturali e naturali of the Emilia-Romagna Region</name>
+    <Snippet>Full Name: Francesca Ricci</Snippet>
+    <description><![CDATA[Full Name: Francesca Ricci]]></description>
+    <styleUrl>#style108</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Francesca Ricci</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>11.218640,44.596760,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MontrÃ©al, plaque tournante des Ã©changes, UniversitÃ© du QuÃ©bec Ã  Montreal</name>
+    <Snippet>Full Name: GeneviÃ¨ve LÃ©tourneau-G.</Snippet>
+    <description><![CDATA[Full Name: GeneviÃ¨ve LÃ©tourneau-G.]]></description>
+    <styleUrl>#style111</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>GeneviÃ¨ve LÃ©tourneau-G.</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.553993,45.508671,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>King&#39;s College London</name>
+    <Snippet>Full Name: Geoff Browell</Snippet>
+    <description><![CDATA[Full Name: Geoff Browell]]></description>
+    <styleUrl>#style41</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Geoff Browell</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-0.119824,51.511215,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UQAM - Université du Québec à Montréal</name>
+    <Snippet>Full Name: Guy Deschenes</Snippet>
+    <description><![CDATA[Full Name: Guy Deschenes]]></description>
+    <styleUrl>#style38</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Guy Deschenes</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.569130,45.509548,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>McCord Museum, 690 Sherbrooke Street West, Montreal, Quebec  H3A 1E9</name>
+    <Snippet>Full Name: Hugues Boily</Snippet>
+    <description><![CDATA[Full Name: Hugues Boily]]></description>
+    <styleUrl>#style126</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Hugues Boily</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.573776,45.504677,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT) Schulich School of Music, McGill University</name>
+    <Snippet>Full Name: Ichiro Fujinaga</Snippet>
+    <description><![CDATA[Full Name: Ichiro Fujinaga]]></description>
+    <styleUrl>#style65</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Ichiro Fujinaga</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.578186,45.503582,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Intersect Australia (Level 12 Lumley House, 309 Kent Street Sydney, NSW 2000 Australia)</name>
+    <Snippet>Full Name: Ingrid Mason</Snippet>
+    <description><![CDATA[Full Name: Ingrid Mason]]></description>
+    <styleUrl>#style51</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Ingrid Mason</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>151.204315,-33.867321,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Quebec Treasury Board, 11100, boulevard du Golf, Anjou (Québec) H1J 2Y7</name>
+    <Snippet>Full Name: Jalil Emmanuel</Snippet>
+    <description><![CDATA[Full Name: Jalil Emmanuel]]></description>
+    <styleUrl>#style133</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Jalil Emmanuel</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.576401,45.627892,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Metropolitan New York Library Council, 4  57 E 11th St, New York, NY 10003</name>
+    <Snippet>Full Name: Jason Kucsma</Snippet>
+    <description><![CDATA[Full Name: Jason Kucsma]]></description>
+    <styleUrl>#style135</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Jason Kucsma</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.987411,40.732254,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BibliothÃ¨que et Archives nationales du QuÃ©bec (Library and National Archives of Quebec)</name>
+    <Snippet>Full Name: Jean-Francois Gauvin</Snippet>
+    <description><![CDATA[Full Name: Jean-Francois Gauvin]]></description>
+    <styleUrl>#style36</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Jean-Francois Gauvin</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.561852,45.515282,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kent State, 800 E Summit St, Kent, OH 44240</name>
+    <Snippet>Full Name: Jeff Mixter</Snippet>
+    <description><![CDATA[Full Name: Jeff Mixter]]></description>
+    <styleUrl>#style66</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Jeff Mixter</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-81.347984,41.146976,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Metropolitan New York Library Council, 4  57 E 11th St, New York, NY 10003</name>
+    <Snippet>Full Name: Jefferson Bailey</Snippet>
+    <description><![CDATA[Full Name: Jefferson Bailey]]></description>
+    <styleUrl>#style141</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Jefferson Bailey</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.987411,40.732254,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Knowledge Motifs LLC, 448 E Ellsworth Court San Mateo, CA 94401-2429</name>
+    <Snippet>Full Name: Jerry Persons</Snippet>
+    <description><![CDATA[Full Name: Jerry Persons]]></description>
+    <styleUrl>#style45</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Jerry Persons</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-122.332382,37.574085,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The J. Paul Getty Trust, 1200 Getty Center Dr, Los Angeles, CA, United States ‎</name>
+    <Snippet>Full Name: Joan Cobb</Snippet>
+    <description><![CDATA[Full Name: Joan Cobb]]></description>
+    <styleUrl>#style99</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Joan Cobb</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-118.475029,34.078808,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UQAM, Université du Québec à Montréal</name>
+    <Snippet>Full Name: Joanne Burgess</Snippet>
+    <description><![CDATA[Full Name: Joanne Burgess]]></description>
+    <styleUrl>#style143</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Joanne Burgess</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.569130,45.509548,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DERI, NUI Galway</name>
+    <Snippet>Full Name: Jodi Schneider</Snippet>
+    <description><![CDATA[Full Name: Jodi Schneider]]></description>
+    <styleUrl>#style100</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Jodi Schneider</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-9.058142,53.279251,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Smithsonian Libraries, 1000 Constitution Ave NW, Washington, DC</name>
+    <Snippet>Full Name: Joel Richard</Snippet>
+    <description><![CDATA[Full Name: Joel Richard]]></description>
+    <styleUrl>#style29</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Joel Richard</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-77.026009,38.891335,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Netherlands Institute for Sound and Vision, Sumatralaan 45, 1200 BB Hilversum, Netherlands</name>
+    <Snippet>Full Name: Johan Oomen</Snippet>
+    <description><![CDATA[Full Name: Johan Oomen]]></description>
+    <styleUrl>#style82</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Johan Oomen</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>5.166897,52.229172,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Historypin/We Are What We Do, (71 St John Street London, EC1M 4NJ, United Kingdom)     </name>
+    <Snippet>Full Name: Jon Voss</Snippet>
+    <description><![CDATA[Full Name: Jon Voss]]></description>
+    <styleUrl>#style114</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Jon Voss</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-0.102008,51.521481,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>School of Library and Information Science, Kent State University,  Kent, OH 44242-0001</name>
+    <Snippet>Full Name: Karen Gracy</Snippet>
+    <description><![CDATA[Full Name: Karen Gracy]]></description>
+    <styleUrl>#style138</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Karen Gracy</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-81.351273,41.153751,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>University of Victoria</name>
+    <Snippet>Full Name: Kathleen Matthews</Snippet>
+    <description><![CDATA[Full Name: Kathleen Matthews]]></description>
+    <styleUrl>#style145</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Kathleen Matthews</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-123.310417,48.461918,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Confederation of Open Access Repositories, Göttingen State and University Library, Platz der Göttinger Sieben 1, 37073 Göttingen Germany</name>
+    <Snippet>Full Name: Kathleen Shearer</Snippet>
+    <description><![CDATA[Full Name: Kathleen Shearer]]></description>
+    <styleUrl>#style81</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Kathleen Shearer</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>9.934258,51.540115,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Amherst College</name>
+    <Snippet>Full Name: Kelcy Shepherd</Snippet>
+    <description><![CDATA[Full Name: Kelcy Shepherd]]></description>
+    <styleUrl>#style147</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Kelcy Shepherd</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.514374,42.372025,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The University of Queensland, Australia</name>
+    <Snippet>Full Name: Kerry Kilner</Snippet>
+    <description><![CDATA[Full Name: Kerry Kilner]]></description>
+    <styleUrl>#style19</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Kerry Kilner</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>153.012466,-27.495510,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>University of Denver</name>
+    <Snippet>Full Name: Kevin Clair</Snippet>
+    <description><![CDATA[Full Name: Kevin Clair]]></description>
+    <styleUrl>#style136</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Kevin Clair</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-104.984718,39.737568,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Library of Congress</name>
+    <Snippet>Full Name: Kevin Ford</Snippet>
+    <description><![CDATA[Full Name: Kevin Ford]]></description>
+    <styleUrl>#style35</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Kevin Ford</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-77.004723,38.888683,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Princeton University Library, 1 Washington Rd, Princeton, NJ 08544, United States</name>
+    <Snippet>Full Name: Kevin Reiss</Snippet>
+    <description><![CDATA[Full Name: Kevin Reiss]]></description>
+    <styleUrl>#style58</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Kevin Reiss</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-74.657356,40.349422,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Emory University Libraries, 201 Dowman Drive, Atlanta, Ga. 30322</name>
+    <Snippet>Full Name: Laura Akerman</Snippet>
+    <description><![CDATA[Full Name: Laura Akerman]]></description>
+    <styleUrl>#style107</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Laura Akerman</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-84.325935,33.798100,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Yale University</name>
+    <Snippet>Full Name: Lec Maj</Snippet>
+    <description><![CDATA[Full Name: Lec Maj]]></description>
+    <styleUrl>#style124</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Lec Maj</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.922340,41.316322,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UniversitÃ© de Sherbrooke</name>
+    <Snippet>Full Name: LÃ©on Robichaud</Snippet>
+    <description><![CDATA[Full Name: LÃ©on Robichaud]]></description>
+    <styleUrl>#style87</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>LÃ©on Robichaud</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.882431,45.400993,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Memorial University of Newfoundland</name>
+    <Snippet>Full Name: Lisa Goddard</Snippet>
+    <description><![CDATA[Full Name: Lisa Goddard]]></description>
+    <styleUrl>#style120</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Lisa Goddard</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-52.730247,47.571014,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SociÃ©tÃ© des amis de Jacques Ferron, Sherbrooke St W &amp; Atwater Ave, Montreal, QC H3H, Canada</name>
+    <Snippet>Full Name: Luc Gauvreau</Snippet>
+    <description><![CDATA[Full Name: Luc Gauvreau]]></description>
+    <styleUrl>#style57</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Luc Gauvreau</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.585892,45.490215,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Centre dâ€™expertise numÃ©rique pour la recherche, Université de Montréal, PO Box 6128, Station Centre-ville Montréal QC, H3C 3J7</name>
+    <Snippet>Full Name: Luc Grondin</Snippet>
+    <description><![CDATA[Full Name: Luc Grondin]]></description>
+    <styleUrl>#style50</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Luc Grondin</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.543648,45.502319,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>EBSI, Université de Montréal, PO Box 6128, Station Centre-ville Montréal QC, H3C 3J7 </name>
+    <Snippet>Full Name: Lyne Da Sylva</Snippet>
+    <description><![CDATA[Full Name: Lyne Da Sylva]]></description>
+    <styleUrl>#style49</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Lyne Da Sylva</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.543648,45.502319,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Canadian Heritage Information Network (CHIN), 15 Eddy Street, (15-4-A), Gatineau, Quebec Canada K1A 0M5</name>
+    <Snippet>Full Name: Madeleine Lafaille</Snippet>
+    <description><![CDATA[Full Name: Madeleine Lafaille]]></description>
+    <styleUrl>#style16</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Madeleine Lafaille</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-75.720322,45.425312,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>GTN-Québec</name>
+    <Snippet>Full Name: Marc-Antoine Parent</Snippet>
+    <description><![CDATA[Full Name: Marc-Antoine Parent]]></description>
+    <styleUrl>#style23</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Marc-Antoine Parent</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.674400,45.535725,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kent State University, 800 E Summit St, Kent, OH 44240, United States</name>
+    <Snippet>Full Name: Marcia Zeng</Snippet>
+    <description><![CDATA[Full Name: Marcia Zeng]]></description>
+    <styleUrl>#style109</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Marcia Zeng</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-81.345772,41.146622,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>School of Information Studies, University of Wisconsin-Milwaukee</name>
+    <Snippet>Full Name: Margaret Kipp</Snippet>
+    <description><![CDATA[Full Name: Margaret Kipp]]></description>
+    <styleUrl>#style112</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Margaret Kipp</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-87.881966,43.078262,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mozaika, Ovcha kupel, Bulgaria</name>
+    <Snippet>Full Name: Mariana Damova</Snippet>
+    <description><![CDATA[Full Name: Mariana Damova]]></description>
+    <styleUrl>#style20</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Mariana Damova</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>23.316315,42.693356,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>figshare, Digital Science, The Macmillan Building, 4 Crinan Street London, N19XW</name>
+    <Snippet>Full Name: Mark Hahnel</Snippet>
+    <description><![CDATA[Full Name: Mark Hahnel]]></description>
+    <styleUrl>#style47</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Mark Hahnel</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-0.121618,51.533798,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>German National Library, Adickesallee 1, 60322 Frankfurt, Germany</name>
+    <Snippet>Full Name: Markus Michael Geipel</Snippet>
+    <description><![CDATA[Full Name: Markus Michael Geipel]]></description>
+    <styleUrl>#style75</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Markus Michael Geipel</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>8.683675,50.131584,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>(Ministère de la Culture et des Communications) 2050, rue De Bleury, RC 10 MONTRÉAL</name>
+    <Snippet>Full Name: Mathieu Rocheleau</Snippet>
+    <description><![CDATA[Full Name: Mathieu Rocheleau]]></description>
+    <styleUrl>#style12</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Mathieu Rocheleau</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.553993,45.508671,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pratt Institute</name>
+    <Snippet>Full Name: Matt Miller</Snippet>
+    <description><![CDATA[Full Name: Matt Miller]]></description>
+    <styleUrl>#style97</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Matt Miller</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.962959,40.692184,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ajah / Montreal Ouvert, 1124 Marie-Anne E., suite 11 Montreal, QC H2J 2B7</name>
+    <Snippet>Full Name: Michael Lenczner</Snippet>
+    <description><![CDATA[Full Name: Michael Lenczner]]></description>
+    <styleUrl>#style59</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Michael Lenczner</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.576271,45.527390,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ÉcolePolytechnique de Montréal, Département de génie informatique, C.P. 6079 succ. Centre-ville, Montréal (Québec) Canada  H3C 3A7  </name>
+    <Snippet>Full Name: Michel Gagnon</Snippet>
+    <description><![CDATA[Full Name: Michel Gagnon]]></description>
+    <styleUrl>#style125</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Michel Gagnon</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.543648,45.502319,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ryerson University</name>
+    <Snippet>Full Name: MJ Suhonos</Snippet>
+    <description><![CDATA[Full Name: MJ Suhonos]]></description>
+    <styleUrl>#style79</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>MJ Suhonos</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-79.378235,43.657688,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>GNOSS, Piqueras Street, 31 4th floor, Logroño, La Rioja</name>
+    <Snippet>Full Name: Pablo Hermoso de Mendoza</Snippet>
+    <description><![CDATA[Full Name: Pablo Hermoso de Mendoza]]></description>
+    <styleUrl>#style116</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Pablo Hermoso de Mendoza</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-2.444985,42.462719,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BibliothÃ¨que et Archives nationales du QuÃ©bec (Library and National Archives of Quebec)</name>
+    <Snippet>Full Name: Pat Riva</Snippet>
+    <description><![CDATA[Full Name: Pat Riva]]></description>
+    <styleUrl>#style106</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Pat Riva</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.561852,45.515282,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BibliothÃ¨que et Archives nationales du QuÃ©bec (Library and National Archives of Quebec)</name>
+    <Snippet>Full Name: Patrick M. Lozeau</Snippet>
+    <description><![CDATA[Full Name: Patrick M. Lozeau]]></description>
+    <styleUrl>#style24</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Patrick M. Lozeau</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.561852,45.515282,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>University of Southern California</name>
+    <Snippet>Full Name: Pedro Szekely</Snippet>
+    <description><![CDATA[Full Name: Pedro Szekely]]></description>
+    <styleUrl>#style117</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Pedro Szekely</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-118.285126,34.022339,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stanford University</name>
+    <Snippet>Full Name: Peter Mangiafico</Snippet>
+    <description><![CDATA[Full Name: Peter Mangiafico]]></description>
+    <styleUrl>#style52</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Peter Mangiafico</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-122.169716,37.427475,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Countway Library of Medicine, Harvard University, 1350 Massachusetts Ave, Cambridge, MA, United States</name>
+    <Snippet>Full Name: Peter Rolla</Snippet>
+    <description><![CDATA[Full Name: Peter Rolla]]></description>
+    <styleUrl>#style73</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Peter Rolla</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.116585,42.374187,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stanford University</name>
+    <Snippet>Full Name: Philip Schreur</Snippet>
+    <description><![CDATA[Full Name: Philip Schreur]]></description>
+    <styleUrl>#style42</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Philip Schreur</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-122.169716,37.427475,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Digital Library Federation, 1707 L Street NW, Suite 650, Washington, DC 20036 </name>
+    <Snippet>Full Name: Rachel Frick</Snippet>
+    <description><![CDATA[Full Name: Rachel Frick]]></description>
+    <styleUrl>#style90</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Rachel Frick</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-77.040611,38.908077,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Michigan State University</name>
+    <Snippet>Full Name: Ranti Junus</Snippet>
+    <description><![CDATA[Full Name: Ranti Junus]]></description>
+    <styleUrl>#style7</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Ranti Junus</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-85.400932,42.405239,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>GNOSS, Piqueras Street, 31 4th floor, Logroño, La Rioja</name>
+    <Snippet>Full Name: Ricardo Alonso Maturana</Snippet>
+    <description><![CDATA[Full Name: Ricardo Alonso Maturana]]></description>
+    <styleUrl>#style37</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Ricardo Alonso Maturana</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-2.444985,42.462719,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Florida State Univeristy</name>
+    <Snippet>Full Name: Richard Urban</Snippet>
+    <description><![CDATA[Full Name: Richard Urban]]></description>
+    <styleUrl>#style134</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Richard Urban</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-81.618073,30.378078,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>OCLC, 6565 Kilgour Place, Dublin 43017, Ohio US</name>
+    <Snippet>Full Name: Richard Wallis</Snippet>
+    <description><![CDATA[Full Name: Richard Wallis]]></description>
+    <styleUrl>#style21</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Richard Wallis</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-83.126205,40.102654,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Columbia University, New York</name>
+    <Snippet>Full Name: Robert Hilliker</Snippet>
+    <description><![CDATA[Full Name: Robert Hilliker]]></description>
+    <styleUrl>#style83</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Robert Hilliker</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-74.005974,40.714352,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Carleton University</name>
+    <Snippet>Full Name: Robert Warren</Snippet>
+    <description><![CDATA[Full Name: Robert Warren]]></description>
+    <styleUrl>#style78</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Robert Warren</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-75.696022,45.387581,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BnF, National Library of France </name>
+    <Snippet>Full Name: Romain Wenz</Snippet>
+    <description><![CDATA[Full Name: Romain Wenz]]></description>
+    <styleUrl>#style91</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Romain Wenz</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>2.375697,48.833660,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The University of Sydney</name>
+    <Snippet>Full Name: Rowan Brownlee</Snippet>
+    <description><![CDATA[Full Name: Rowan Brownlee]]></description>
+    <styleUrl>#style115</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Rowan Brownlee</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>151.190567,-33.889915,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ghent University â€“ iMinds â€“ Multimedia Lab, Sint-Pietersnieuwstraat 33 9000 Gent, Belgium</name>
+    <Snippet>Full Name: Ruben Verborgh</Snippet>
+    <description><![CDATA[Full Name: Ruben Verborgh]]></description>
+    <styleUrl>#style1</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Ruben Verborgh</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>3.727085,51.047085,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>NTNU, Høgskoleringen 1, 7491 Trondheim, Norway</name>
+    <Snippet>Full Name: Rurik Thomas Greenall</Snippet>
+    <description><![CDATA[Full Name: Rurik Thomas Greenall]]></description>
+    <styleUrl>#style46</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Rurik Thomas Greenall</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>10.395053,63.430515,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Metropolitan Museum of Art</name>
+    <Snippet>Full Name: Ryan Donahue</Snippet>
+    <description><![CDATA[Full Name: Ryan Donahue]]></description>
+    <styleUrl>#style93</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Ryan Donahue</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.962769,40.779144,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Open Knowledge Foundation, St John’s Innovation Centre, Cowley Road, Cambridge, CB4 0WS, United Kingdom </name>
+    <Snippet>Full Name: Sam Leon</Snippet>
+    <description><![CDATA[Full Name: Sam Leon]]></description>
+    <styleUrl>#style85</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Sam Leon</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>0.153537,52.234035,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MIT Libraries, 77 Massachusetts Ave #14S-216, Cambridge, MA 02139</name>
+    <Snippet>Full Name: Sands Fish</Snippet>
+    <description><![CDATA[Full Name: Sands Fish]]></description>
+    <styleUrl>#style63</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Sands Fish</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.103256,42.364758,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Massachusetts Institute of Technology (MIT), US</name>
+    <Snippet>Full Name: Sean Thomas</Snippet>
+    <description><![CDATA[Full Name: Sean Thomas]]></description>
+    <styleUrl>#style32</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Sean Thomas</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.093826,42.358868,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UniversitÃ© Laval, 2325 Rue de l&#39;Université  Québec, QC G1V 0A6 </name>
+    <Snippet>Full Name: SÃ©bastien Nadeau</Snippet>
+    <description><![CDATA[Full Name: SÃ©bastien Nadeau]]></description>
+    <styleUrl>#style104</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>SÃ©bastien Nadeau</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.269676,46.779247,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UniversitÃ© libre de Bruxelles</name>
+    <Snippet>Full Name: Seth van Hooland</Snippet>
+    <description><![CDATA[Full Name: Seth van Hooland]]></description>
+    <styleUrl>#style61</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Seth van Hooland</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>4.351710,50.850342,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>regesta.exe, via monte zebio 19 – 00195 roma, Italy</name>
+    <Snippet>Full Name: Silvia Mazzini</Snippet>
+    <description><![CDATA[Full Name: Silvia Mazzini]]></description>
+    <styleUrl>#style8</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Silvia Mazzini</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>12.465129,41.917938,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>University of Nevada, Las Vegas</name>
+    <Snippet>Full Name: Silvia Southwick</Snippet>
+    <description><![CDATA[Full Name: Silvia Southwick]]></description>
+    <styleUrl>#style94</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Silvia Southwick</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-115.172813,36.114647,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cornell University, New York</name>
+    <Snippet>Full Name: Simeon Warner</Snippet>
+    <description><![CDATA[Full Name: Simeon Warner]]></description>
+    <styleUrl>#style96</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Simeon Warner</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.981766,40.752068,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Net7, Via Marche, 10, 56123 Pisa, Italia</name>
+    <Snippet>Full Name: Simone Fonda</Snippet>
+    <description><![CDATA[Full Name: Simone Fonda]]></description>
+    <styleUrl>#style3</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Simone Fonda</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>10.403985,43.723839,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Musée de la civilisation, 85 rue Dalhousie, P.O. Box 155, Station B, Québec City, Québec, Canada, G1K 8R2 </name>
+    <Snippet>Full Name: Sophie Couture Samson</Snippet>
+    <description><![CDATA[Full Name: Sophie Couture Samson]]></description>
+    <styleUrl>#style70</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Sophie Couture Samson</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.202110,46.815121,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Brown University, Providence, RI 02912</name>
+    <Snippet>Full Name: Ted Lawless</Snippet>
+    <description><![CDATA[Full Name: Ted Lawless]]></description>
+    <styleUrl>#style101</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Ted Lawless</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-71.402565,41.826717,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>University of Colorado Boulder</name>
+    <Snippet>Full Name: Thea Lindquist</Snippet>
+    <description><![CDATA[Full Name: Thea Lindquist]]></description>
+    <styleUrl>#style102</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Thea Lindquist</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-105.265945,40.007580,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oregon State University</name>
+    <Snippet>Full Name: Thomas Johnson</Snippet>
+    <description><![CDATA[Full Name: Thomas Johnson]]></description>
+    <styleUrl>#style22</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Thomas Johnson</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-123.278969,44.562855,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>University of Illinois at UC, Grainger Engineering Library Information Center, 157 Grainger Library (MC-274) 1301 W. Springfield Ave. Urbana, IL 61801</name>
+    <Snippet>Full Name: Timothy Cole</Snippet>
+    <description><![CDATA[Full Name: Timothy Cole]]></description>
+    <styleUrl>#style4</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Timothy Cole</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-88.225639,40.112732,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Concordia University, Montreal, Quebec</name>
+    <Snippet>Full Name: Tomasz Neugebauer</Snippet>
+    <description><![CDATA[Full Name: Tomasz Neugebauer]]></description>
+    <styleUrl>#style53</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Tomasz Neugebauer</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.578735,45.497108,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The New York Public Library</name>
+    <Snippet>Full Name: Trevor Thornton</Snippet>
+    <description><![CDATA[Full Name: Trevor Thornton]]></description>
+    <styleUrl>#style27</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Trevor Thornton</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.981674,40.752262,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Academia Sinica, Taipei, Taiwan</name>
+    <Snippet>Full Name: Tyng-Ruey Chuang</Snippet>
+    <description><![CDATA[Full Name: Tyng-Ruey Chuang]]></description>
+    <styleUrl>#style74</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Tyng-Ruey Chuang</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>121.614487,25.043406,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ontotext Corp, Polygraphia Office Center fl.4, 47A Tsarigradsko Shosse, Sofia 1124, Bulgaria</name>
+    <Snippet>Full Name: Vladimir Alexiev</Snippet>
+    <description><![CDATA[Full Name: Vladimir Alexiev]]></description>
+    <styleUrl>#style33</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Vladimir Alexiev</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>23.345703,42.687450,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mendeley, 360 Park Ave S, New York, NY 10010</name>
+    <Snippet>Full Name: William Gunn</Snippet>
+    <description><![CDATA[Full Name: William Gunn]]></description>
+    <styleUrl>#style146</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>William Gunn</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.985123,40.742432,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BBC R&amp;D, BBC Broadcasting House, Portland Place London W1A 1AA, London  </name>
+    <Snippet>Full Name: Yves Raimond</Snippet>
+    <description><![CDATA[Full Name: Yves Raimond]]></description>
+    <styleUrl>#style131</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>Full Name</displayName>
+        <value>Yves Raimond</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-0.120163,51.511734,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Open Library</name>
+    <Snippet>Institution /Address: Internet Archive (300 Funston Avenue San Francisco, CA 941</Snippet>
+    <description><![CDATA[Institution /Address: Internet Archive (300 Funston Avenue San Francisco, CA 94118)
+URL: <a href="http://openlibrary.org/data" target="_blank">http://openlibrary.org/data</a>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://openlibrary.org/data</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-122.471550,37.782307,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>British Museum Collection</name>
+    <Snippet>Institution /Address: British Museum URL: http://collection.britishmuseum.org/</Snippet>
+    <description><![CDATA[Institution /Address: British Museum
+URL: <a href="http://collection.britishmuseum.org/" target="_blank">http://collection.britishmuseum.org/</a>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://collection.britishmuseum.org/</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-0.125999,51.517929,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>British National Bibliography</name>
+    <Snippet>Institution /Address: Boston Spa, Wetherby, West Yorkshire, LS23 7BQ, United Kin</Snippet>
+    <description><![CDATA[Institution /Address: Boston Spa, Wetherby, West Yorkshire, LS23 7BQ, United Kingdom
+URL: <a href="http://bnb.data.bl.uk/" target="_blank">http://bnb.data.bl.uk/</a>]]></description>
+    <styleUrl>#style132</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://bnb.data.bl.uk/</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-1.356251,53.905682,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>British National Bibliography (BNB) - Linked Open Data</name>
+    <Snippet>Institution /Address: The British Library URL: http://bnb.data.bl.uk/</Snippet>
+    <description><![CDATA[Institution /Address: The British Library
+URL: <a href="http://bnb.data.bl.uk/" target="_blank">http://bnb.data.bl.uk/</a>]]></description>
+    <styleUrl>#style137</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://bnb.data.bl.uk/</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-0.126753,51.529251,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>COLINDA - Conference Linked Data</name>
+    <Snippet>Institution /Address: Graz University of Technology URL: http://www.colinda.org/</Snippet>
+    <description><![CDATA[Institution /Address: Graz University of Technology
+URL: <a href="http://www.colinda.org/index.html" target="_blank">http://www.colinda.org/index.html</a>]]></description>
+    <styleUrl>#style128</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://www.colinda.org/index.html</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>15.450465,47.069382,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>datos.bne.es</name>
+    <Snippet>Institution /Address: Spanish National Library URL: http://datos.bne.es</Snippet>
+    <description><![CDATA[Institution /Address: Spanish National Library
+URL: <a href="http://datos.bne.es" target="_blank">http://datos.bne.es</a>]]></description>
+    <styleUrl>#style144</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://datos.bne.es</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-3.690232,40.423759,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DBLP Bibliography Database in RDF (FU Berlin)</name>
+    <Snippet>Institution /Address: Universität Mannheim (Institut für Informatik und Wirtsc</Snippet>
+    <description><![CDATA[Institution /Address: Universität Mannheim (Institut für Informatik und Wirtschaftsinformatik, B6, 26, Raum B1.21, D-68159 Mannheim)
+URL: <a href="http://datahub.io/dataset/fu-berlin-dblp" target="_blank">http://datahub.io/dataset/fu-berlin-dblp</a>]]></description>
+    <styleUrl>#style95</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://datahub.io/dataset/fu-berlin-dblp</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>8.463224,49.485447,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DBLP Computer Science Bibliography (RKBExplorer)</name>
+    <Snippet>Institution /Address: School of Electronics and Computer Science, University of </Snippet>
+    <description><![CDATA[Institution /Address: School of Electronics and Computer Science, University of Southampton, UK
+URL: <a href="http://dblp.rkbexplorer.com/" target="_blank">http://dblp.rkbexplorer.com/</a>]]></description>
+    <styleUrl>#style140</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://dblp.rkbexplorer.com/</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-1.404351,50.909698,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>DBLP in RDF (L3S)</name>
+    <Snippet>Institution /Address: L3S Research Center (Appelstraße 9a, 30167 Hannover) URL:</Snippet>
+    <description><![CDATA[Institution /Address: L3S Research Center (Appelstraße 9a, 30167 Hannover)
+URL: <a href="http://dblp.l3s.de/d2r/" target="_blank">http://dblp.l3s.de/d2r/</a>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://dblp.l3s.de/d2r/</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>9.712640,52.388592,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>English Heritage Places</name>
+    <Snippet>Institution /Address: 1 Waterhouse Square, 138 - 142 Holborn, London EC1N 2ST UR</Snippet>
+    <description><![CDATA[Institution /Address: 1 Waterhouse Square, 138 - 142 Holborn, London EC1N 2ST
+URL: <a href="http://kasabi.com/dataset/english-heritage" target="_blank">http://kasabi.com/dataset/english-heritage</a>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://kasabi.com/dataset/english-heritage</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-0.110329,51.518253,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Europeana Linked Open Data</name>
+    <Snippet>Institution /Address: (National Library of the Netherlands) Prins Willem-Alexand</Snippet>
+    <description><![CDATA[Institution /Address: (National Library of the Netherlands) Prins Willem-Alexanderhof 5, 2595 BE Den Haag, Netherlands  
+URL: <a href="http://data.europeana.eu/" target="_blank">http://data.europeana.eu/</a>]]></description>
+    <styleUrl>#style88</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://data.europeana.eu/</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>4.330837,52.003227,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hungrarian National Library</name>
+    <Snippet>Institution /Address: 1014 Budapest  Szent György tér 4-5-6., Hungary URL: htt</Snippet>
+    <description><![CDATA[Institution /Address: 1014 Budapest  Szent György tér 4-5-6., Hungary
+URL: <a href="http://nektar.oszk.hu/wiki/Semantic_web" target="_blank">http://nektar.oszk.hu/wiki/Semantic_web</a>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://nektar.oszk.hu/wiki/Semantic_web</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>19.039612,47.495369,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>IEEE VIS Source Data</name>
+    <Snippet>Institution /Address: Rensselaer Polytechnic Institute (RPI)  110 Eighth Street,</Snippet>
+    <description><![CDATA[Institution /Address: Rensselaer Polytechnic Institute (RPI)  110 Eighth Street, Troy, NY
+URL: <a href="http://ieeevis.tw.rpi.edu/index.html" target="_blank">http://ieeevis.tw.rpi.edu/index.html</a>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://ieeevis.tw.rpi.edu/index.html</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.678802,42.730171,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>J.UCS Journal of Universal Computer Science</name>
+    <Snippet>Institution /Address: The J.UCS Consortium (Graz University of Technology, Graz)</Snippet>
+    <description><![CDATA[Institution /Address: The J.UCS Consortium (Graz University of Technology, Graz) 
+URL: <a href="http://jucs.org:8181/d2rq/" target="_blank">http://jucs.org:8181/d2rq/</a>]]></description>
+    <styleUrl>#style103</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://jucs.org:8181/d2rq/</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>15.450465,47.069382,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>lobid. Bibliographic Resources Popular</name>
+    <Snippet>Institution /Address: The North Rhine-Westphalian Library Service Centre (hbz) (</Snippet>
+    <description><![CDATA[Institution /Address: The North Rhine-Westphalian Library Service Centre (hbz) (Jülicher Straße 6, 50674, Köln, Deutschland)
+URL: <a href="http://thedatahub.org/dataset/hbz_unioncatalog" target="_blank">http://thedatahub.org/dataset/hbz_unioncatalog</a>]]></description>
+    <styleUrl>#style139</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://thedatahub.org/dataset/hbz_unioncatalog</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>6.935424,50.934082,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Open Library data mirror in the Talis Platform Popular</name>
+    <Snippet>Institution /Address: Talis Systems Ltd (The Exchange, 19 Newhall Street, Birmin</Snippet>
+    <description><![CDATA[Institution /Address: Talis Systems Ltd (The Exchange, 19 Newhall Street, Birmingham UK, B3 3PJ)
+URL: <a href="http://api.talis.com/stores/openlibrary" target="_blank">http://api.talis.com/stores/openlibrary</a>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://api.talis.com/stores/openlibrary</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-1.901730,52.481487,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>RKB Explorer Data</name>
+    <Snippet>Institution /Address: School of Electronics and Computer Science, University of </Snippet>
+    <description><![CDATA[Institution /Address: School of Electronics and Computer Science, University of Southampton, UK
+URL: <a href="http://www.rkbexplorer.com/data/" target="_blank">http://www.rkbexplorer.com/data/</a>]]></description>
+    <styleUrl>#style110</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://www.rkbexplorer.com/data/</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-1.404351,50.909698,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Semantic Universe Data</name>
+    <Snippet>Institution /Address: semanticweb.com (475 Park Avenue South, 4th Floor, New Yor</Snippet>
+    <description><![CDATA[Institution /Address: semanticweb.com (475 Park Avenue South, 4th Floor, New York, New York 10016)
+URL: <a href="http://data.semanticuniverse.com" target="_blank">http://data.semanticuniverse.com</a>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://data.semanticuniverse.com</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-73.980064,40.747269,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Semantic Web Dog Food Corpus</name>
+    <Snippet>Institution /Address: SWSA (Semantic Web Science Association) c/o Institut AIFB,</Snippet>
+    <description><![CDATA[Institution /Address: SWSA (Semantic Web Science Association) c/o Institut AIFB, Geb. 11.40 KIT – Campus Süd D-76128 Karlsruhe 
+URL: <a href="http://data.semanticweb.org" target="_blank">http://data.semanticweb.org</a>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://data.semanticweb.org</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>8.379944,49.009148,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Swedish Open Cultural Heritage</name>
+    <Snippet>Institution /Address: Riksantikvarieämbetet, Vitterhetsakademiens bibliotek,STO</Snippet>
+    <description><![CDATA[Institution /Address: Riksantikvarieämbetet, Vitterhetsakademiens bibliotek,STOCKHOLM
+URL: <a href="http://www.ksamsok.se/in-english/" target="_blank">http://www.ksamsok.se/in-english/</a>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://www.ksamsok.se/in-english/</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>18.064911,59.328930,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The ClueWeb09 Dataset</name>
+    <Snippet>Institution /Address: University of Massachusetts Amherst, Amherst, MA 01003, 18</Snippet>
+    <description><![CDATA[Institution /Address: University of Massachusetts Amherst, Amherst, MA 01003, 181 Presidents Dr, Amherst, MA
+URL: <a href="http://www.lemurproject.org/clueweb09/" target="_blank">http://www.lemurproject.org/clueweb09/</a>]]></description>
+    <styleUrl>#style89</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://www.lemurproject.org/clueweb09/</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-72.526543,42.391075,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The DBLP Computer Science Bibliography</name>
+    <Snippet>Institution /Address: Universität Trier (Universitätsring 15, 54296 Trier) URL</Snippet>
+    <description><![CDATA[Institution /Address: Universität Trier (Universitätsring 15, 54296 Trier)
+URL: <a href="http://dblp.org/db/" target="_blank">http://dblp.org/db/</a>  ; <a href="http://dblp.uni-trier.de/xml/" target="_blank">http://dblp.uni-trier.de/xml/</a>]]></description>
+    <styleUrl>#style123</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://dblp.org/db/  ; http://dblp.uni-trier.de/xml/</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>6.688470,49.745762,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Theatricalia</name>
+    <Snippet>Institution /Address: Birmingham, United Kingdom (Matthew Somerville)  URL: http</Snippet>
+    <description><![CDATA[Institution /Address: Birmingham, United Kingdom (Matthew Somerville) 
+URL: <a href="http://theatricalia.com/search" target="_blank">http://theatricalia.com/search</a>]]></description>
+    <styleUrl>#style121</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://theatricalia.com/search</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-1.890401,52.486244,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tyne and Wear Museums Collections (Imagine)</name>
+    <Snippet>Institution /Address: Tyne &amp;amp; Wear Archives &amp;amp; Museums, Blandford Square, </Snippet>
+    <description><![CDATA[Institution /Address: Tyne &amp; Wear Archives &amp; Museums, Blandford Square, Newcastle upon Tyne, NE1 4JA, UK
+URL: <a href="http://datahub.io/dataset/twam_imagine" target="_blank">http://datahub.io/dataset/twam_imagine</a>]]></description>
+    <styleUrl>#style118</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://datahub.io/dataset/twam_imagine</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-1.624175,54.969559,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>VIVO packages</name>
+    <Snippet>Institution /Address: National Institutes of Health (NIH), 9000 Rockville Pike, </Snippet>
+    <description><![CDATA[Institution /Address: National Institutes of Health (NIH), 9000 Rockville Pike, Bethesda, Maryland 20892
+URL: <a href="http://vivoweb.org/" target="_blank">http://vivoweb.org/</a>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://vivoweb.org/</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-77.097458,39.002361,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Web Science Conference (RKBExplorer)</name>
+    <Snippet>Institution /Address: School of Electronics and Computer Science, University of </Snippet>
+    <description><![CDATA[Institution /Address: School of Electronics and Computer Science, University of Southampton, UK
+URL: <a href="http://webscience.rkbexplorer.com" target="_blank">http://webscience.rkbexplorer.com</a>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <ExtendedData>
+      <Data name="string">
+        <displayName>URL</displayName>
+        <value>http://webscience.rkbexplorer.com</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-1.404351,50.909698,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mozaika, Sofia </name>
+    <description><![CDATA[<div style="font-size:10pt"><br>&nbsp;</div><b><font size="4">Full Name: Mariana Damova</font></b><font size="2"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=42.693354,23.316314&amp;thumb=0"></font>]]></description>
+    <styleUrl>#style129</styleUrl>
+    <Point>
+      <coordinates>23.316315,42.693356,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Data Bindery &amp; Data Curation Experts</name>
+    <description><![CDATA[<div dir="ltr">Full Name: Matt Zumwalt<br><br>http://databindery.com<br>http://curationexperts.com</div>]]></description>
+    <styleUrl>#style105</styleUrl>
+    <Point>
+      <coordinates>-93.265472,44.981647,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
