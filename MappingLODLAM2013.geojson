@@ -261,8 +261,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.962959,
-                    40.692184,
+                    -73.999062,
+                    40.738045,
                     0
                 ]
             },
@@ -1146,8 +1146,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.962959,
-                    40.692184,
+                    -73.999031,
+                    40.738094,
                     0
                 ]
             },
@@ -1724,21 +1724,6 @@
             "properties": {
                 "name": "The New York Public Library",
                 "string": "Trevor Thornton"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.614487,
-                    25.043406,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Academia Sinica, Taipei, Taiwan",
-                "string": "Tyng-Ruey Chuang"
             }
         },
         {

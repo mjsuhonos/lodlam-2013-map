@@ -3,9 +3,8 @@
 <Document>
   <name>Mapping LODLAM 2013</name>
   <description><![CDATA[Square represents the participant; The yellow computer means datasets releasing to LOD. 
-**Note**
-**Apologize for the confusion. If you want to edit the map, you have to use gmail to sign in. I thought gmail will auto-link to his/her non-gmail account (people provide their alternative e-mail accounts when they apply gmail, theoretically they are associated with the same person.) Thanks for some people's remindings. (
-On a second thought, this is good for the personal privacy protection.) 
+
+***Apologize for the confusion. If you want to edit the map, you have to use gmail to sign in. I thought gmail will auto-link to his/her non-gmail account (people provide their alternative e-mail accounts when they apply gmail, theoretically they are associated with the same person.) Thanks for some people's reminding. (On a second thought, this is good for the personal privacy protection.) 
 
 Therefore, if you want to edit the map but the original shared account is not gmail, let me know your gmail and it will be added soon.   
 
@@ -26,7 +25,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style130">
+  <Style id="style129">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -58,7 +57,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style113">
+  <Style id="style112">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -82,7 +81,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style119">
+  <Style id="style118">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -90,7 +89,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style142">
+  <Style id="style141">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -106,7 +105,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style80">
+  <Style id="style79">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -122,7 +121,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style86">
+  <Style id="style85">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -138,7 +137,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style127">
+  <Style id="style126">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -170,7 +169,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style98">
+  <Style id="style97">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -194,7 +193,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style122">
+  <Style id="style121">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -258,7 +257,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style92">
+  <Style id="style91">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -282,7 +281,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style108">
+  <Style id="style107">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -290,7 +289,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style111">
+  <Style id="style110">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -314,7 +313,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style126">
+  <Style id="style125">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -338,7 +337,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style133">
+  <Style id="style132">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -346,7 +345,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style135">
+  <Style id="style134">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -370,7 +369,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style141">
+  <Style id="style140">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -386,23 +385,23 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
+  <Style id="style98">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style142">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
   <Style id="style99">
-    <IconStyle>
-      <Icon>
-        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
-      </Icon>
-      <scale>1.100000</scale>
-    </IconStyle>
-  </Style>
-  <Style id="style143">
-    <IconStyle>
-      <Icon>
-        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
-      </Icon>
-      <scale>1.100000</scale>
-    </IconStyle>
-  </Style>
-  <Style id="style100">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -418,38 +417,6 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style82">
-    <IconStyle>
-      <Icon>
-        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
-      </Icon>
-      <scale>1.100000</scale>
-    </IconStyle>
-  </Style>
-  <Style id="style114">
-    <IconStyle>
-      <Icon>
-        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
-      </Icon>
-      <scale>1.100000</scale>
-    </IconStyle>
-  </Style>
-  <Style id="style138">
-    <IconStyle>
-      <Icon>
-        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
-      </Icon>
-      <scale>1.100000</scale>
-    </IconStyle>
-  </Style>
-  <Style id="style145">
-    <IconStyle>
-      <Icon>
-        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
-      </Icon>
-      <scale>1.100000</scale>
-    </IconStyle>
-  </Style>
   <Style id="style81">
     <IconStyle>
       <Icon>
@@ -458,7 +425,39 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style147">
+  <Style id="style113">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style137">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style144">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+      </Icon>
+      <scale>1.100000</scale>
+    </IconStyle>
+  </Style>
+  <Style id="style146">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -474,7 +473,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style136">
+  <Style id="style135">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -498,7 +497,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style107">
+  <Style id="style106">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -506,7 +505,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style124">
+  <Style id="style123">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -514,7 +513,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style87">
+  <Style id="style86">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -522,7 +521,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style120">
+  <Style id="style119">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
@@ -570,7 +569,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style109">
+  <Style id="style108">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -578,7 +577,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style112">
+  <Style id="style111">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -602,7 +601,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style75">
+  <Style id="style74">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -618,7 +617,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style97">
+  <Style id="style96">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -634,7 +633,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style125">
+  <Style id="style124">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -642,7 +641,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style79">
+  <Style id="style78">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -650,7 +649,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style116">
+  <Style id="style115">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -658,7 +657,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style106">
+  <Style id="style105">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -674,7 +673,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style117">
+  <Style id="style116">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -706,7 +705,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style90">
+  <Style id="style89">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -730,7 +729,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style134">
+  <Style id="style133">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -746,7 +745,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style83">
+  <Style id="style82">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -754,7 +753,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style78">
+  <Style id="style77">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -762,7 +761,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style91">
+  <Style id="style90">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -770,7 +769,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style115">
+  <Style id="style114">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -794,7 +793,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style93">
+  <Style id="style92">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -802,7 +801,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style85">
+  <Style id="style84">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -826,7 +825,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style104">
+  <Style id="style103">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -850,7 +849,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style94">
+  <Style id="style93">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -858,7 +857,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style96">
+  <Style id="style95">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -882,7 +881,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style101">
+  <Style id="style100">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -890,7 +889,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style102">
+  <Style id="style101">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -930,14 +929,6 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style74">
-    <IconStyle>
-      <Icon>
-        <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
-      </Icon>
-      <scale>1.100000</scale>
-    </IconStyle>
-  </Style>
   <Style id="style33">
     <IconStyle>
       <Icon>
@@ -946,7 +937,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style146">
+  <Style id="style145">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -954,7 +945,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style131">
+  <Style id="style130">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
@@ -970,7 +961,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style84">
+  <Style id="style83">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -978,7 +969,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style132">
+  <Style id="style131">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -986,7 +977,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style137">
+  <Style id="style136">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -994,7 +985,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style128">
+  <Style id="style127">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -1002,7 +993,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style144">
+  <Style id="style143">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -1010,7 +1001,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style95">
+  <Style id="style94">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -1018,7 +1009,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style140">
+  <Style id="style139">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -1042,7 +1033,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style88">
+  <Style id="style87">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -1066,7 +1057,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style103">
+  <Style id="style102">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -1074,7 +1065,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style139">
+  <Style id="style138">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -1090,7 +1081,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style110">
+  <Style id="style109">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -1106,7 +1097,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style77">
+  <Style id="style76">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -1122,7 +1113,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style89">
+  <Style id="style88">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -1130,7 +1121,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style123">
+  <Style id="style122">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -1138,7 +1129,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style121">
+  <Style id="style120">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -1146,7 +1137,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style118">
+  <Style id="style117">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -1162,7 +1153,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style76">
+  <Style id="style75">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
@@ -1170,14 +1161,14 @@ Therefore, if you want to edit the map but the original shared account is not gm
       <scale>1.100000</scale>
     </IconStyle>
   </Style>
-  <Style id="style129">
+  <Style id="style128">
     <IconStyle>
       <Icon>
         <href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style105">
+  <Style id="style104">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
@@ -1218,7 +1209,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Ville de ChÃ¢teauguay (5, boulevard D’Youville  Châteauguay (Québec) J6J 2P8 )</name>
     <Snippet>Full Name: Adam Sofineti</Snippet>
     <description><![CDATA[Full Name: Adam Sofineti]]></description>
-    <styleUrl>#style130</styleUrl>
+    <styleUrl>#style129</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1278,7 +1269,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Digital Public Library of America, Harvard University, Cambridge, Massachusetts, United States</name>
     <Snippet>Full Name: Amy Rudersdorf</Snippet>
     <description><![CDATA[Full Name: Amy Rudersdorf]]></description>
-    <styleUrl>#style113</styleUrl>
+    <styleUrl>#style112</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1292,7 +1283,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
   <Placemark>
     <name>Institute of Information Science, Academia Sinica, Taipei Taiwan</name>
     <Snippet>Full Name: Andrea Wei-Ching Huang</Snippet>
-    <description><![CDATA[Full Name: Andrea Wei-Ching Huang]]></description>
+    <description><![CDATA[<div dir="ltr">Full Name: Andrea Wei-Ching Huang<br><br>Website: http://andrea-index.blogspot.tw/</div>]]></description>
     <styleUrl>#style9</styleUrl>
     <ExtendedData>
       <Data name="string">
@@ -1323,7 +1314,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Europeana, National Library of the Netherlands, 2509 LK The Hague, Netherlands</name>
     <Snippet>Full Name: Antoine Isaac</Snippet>
     <description><![CDATA[Full Name: Antoine Isaac]]></description>
-    <styleUrl>#style119</styleUrl>
+    <styleUrl>#style118</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1338,7 +1329,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>BC Libraries Cooperative (605 Robson Street, Suite 850, Vancouver BC V6B 5J3)</name>
     <Snippet>Full Name: Ben Hyman</Snippet>
     <description><![CDATA[Full Name: Ben Hyman]]></description>
-    <styleUrl>#style142</styleUrl>
+    <styleUrl>#style141</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1368,7 +1359,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>(Ministry of Cultural Heritage and Activities) Ministero dei beni e delle attività culturali e del turismo - Via del Collegio Romano, 27 00186 Roma </name>
     <Snippet>Full Name: Chiara Veninata</Snippet>
     <description><![CDATA[Full Name: Chiara Veninata]]></description>
-    <styleUrl>#style80</styleUrl>
+    <styleUrl>#style79</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1398,7 +1389,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Wellcome Library, 183 Euston Road London NW1 2BE, United Kingdom</name>
     <Snippet>Full Name: Christopher Hilton</Snippet>
     <description><![CDATA[Full Name: Christopher Hilton]]></description>
-    <styleUrl>#style86</styleUrl>
+    <styleUrl>#style85</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1428,7 +1419,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>University of Nevada, Las Vegas</name>
     <Snippet>Full Name: Cory Lampert</Snippet>
     <description><![CDATA[Full Name: Cory Lampert]]></description>
-    <styleUrl>#style127</styleUrl>
+    <styleUrl>#style126</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1451,7 +1442,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       </Data>
     </ExtendedData>
     <Point>
-      <coordinates>-73.962959,40.692184,0.000000</coordinates>
+      <coordinates>-73.999062,40.738045,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1488,7 +1479,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>NYPL Labs (New York Public Library)</name>
     <Snippet>Full Name: David Riordan</Snippet>
     <description><![CDATA[Full Name: David Riordan]]></description>
-    <styleUrl>#style98</styleUrl>
+    <styleUrl>#style97</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1533,7 +1524,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>University of Mississippi Libraries, 1 Library Loop University of Mississippi, University, MS 38677</name>
     <Snippet>Full Name: Debra Riley-Huff</Snippet>
     <description><![CDATA[Full Name: Debra Riley-Huff]]></description>
-    <styleUrl>#style122</styleUrl>
+    <styleUrl>#style121</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1653,7 +1644,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>SemanticWeb.com (475 Park Avenue South, 4th Floor New York, New York 10016)</name>
     <Snippet>Full Name: Eric Franzon</Snippet>
     <description><![CDATA[Full Name: Eric Franzon]]></description>
-    <styleUrl>#style92</styleUrl>
+    <styleUrl>#style91</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1698,7 +1689,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Istituto per i beni artistici culturali e naturali of the Emilia-Romagna Region</name>
     <Snippet>Full Name: Francesca Ricci</Snippet>
     <description><![CDATA[Full Name: Francesca Ricci]]></description>
-    <styleUrl>#style108</styleUrl>
+    <styleUrl>#style107</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1713,7 +1704,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>MontrÃ©al, plaque tournante des Ã©changes, UniversitÃ© du QuÃ©bec Ã  Montreal</name>
     <Snippet>Full Name: GeneviÃ¨ve LÃ©tourneau-G.</Snippet>
     <description><![CDATA[Full Name: GeneviÃ¨ve LÃ©tourneau-G.]]></description>
-    <styleUrl>#style111</styleUrl>
+    <styleUrl>#style110</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1758,7 +1749,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>McCord Museum, 690 Sherbrooke Street West, Montreal, Quebec  H3A 1E9</name>
     <Snippet>Full Name: Hugues Boily</Snippet>
     <description><![CDATA[Full Name: Hugues Boily]]></description>
-    <styleUrl>#style126</styleUrl>
+    <styleUrl>#style125</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1803,7 +1794,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Quebec Treasury Board, 11100, boulevard du Golf, Anjou (Québec) H1J 2Y7</name>
     <Snippet>Full Name: Jalil Emmanuel</Snippet>
     <description><![CDATA[Full Name: Jalil Emmanuel]]></description>
-    <styleUrl>#style133</styleUrl>
+    <styleUrl>#style132</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1818,7 +1809,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Metropolitan New York Library Council, 4  57 E 11th St, New York, NY 10003</name>
     <Snippet>Full Name: Jason Kucsma</Snippet>
     <description><![CDATA[Full Name: Jason Kucsma]]></description>
-    <styleUrl>#style135</styleUrl>
+    <styleUrl>#style134</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1863,7 +1854,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Metropolitan New York Library Council, 4  57 E 11th St, New York, NY 10003</name>
     <Snippet>Full Name: Jefferson Bailey</Snippet>
     <description><![CDATA[Full Name: Jefferson Bailey]]></description>
-    <styleUrl>#style141</styleUrl>
+    <styleUrl>#style140</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1893,7 +1884,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>The J. Paul Getty Trust, 1200 Getty Center Dr, Los Angeles, CA, United States ‎</name>
     <Snippet>Full Name: Joan Cobb</Snippet>
     <description><![CDATA[Full Name: Joan Cobb]]></description>
-    <styleUrl>#style99</styleUrl>
+    <styleUrl>#style98</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1908,7 +1899,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>UQAM, Université du Québec à Montréal</name>
     <Snippet>Full Name: Joanne Burgess</Snippet>
     <description><![CDATA[Full Name: Joanne Burgess]]></description>
-    <styleUrl>#style143</styleUrl>
+    <styleUrl>#style142</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1923,7 +1914,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>DERI, NUI Galway</name>
     <Snippet>Full Name: Jodi Schneider</Snippet>
     <description><![CDATA[Full Name: Jodi Schneider]]></description>
-    <styleUrl>#style100</styleUrl>
+    <styleUrl>#style99</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1953,7 +1944,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Netherlands Institute for Sound and Vision, Sumatralaan 45, 1200 BB Hilversum, Netherlands</name>
     <Snippet>Full Name: Johan Oomen</Snippet>
     <description><![CDATA[Full Name: Johan Oomen]]></description>
-    <styleUrl>#style82</styleUrl>
+    <styleUrl>#style81</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1968,7 +1959,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Historypin/We Are What We Do, (71 St John Street London, EC1M 4NJ, United Kingdom)     </name>
     <Snippet>Full Name: Jon Voss</Snippet>
     <description><![CDATA[Full Name: Jon Voss]]></description>
-    <styleUrl>#style114</styleUrl>
+    <styleUrl>#style113</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1983,7 +1974,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>School of Library and Information Science, Kent State University,  Kent, OH 44242-0001</name>
     <Snippet>Full Name: Karen Gracy</Snippet>
     <description><![CDATA[Full Name: Karen Gracy]]></description>
-    <styleUrl>#style138</styleUrl>
+    <styleUrl>#style137</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -1998,7 +1989,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>University of Victoria</name>
     <Snippet>Full Name: Kathleen Matthews</Snippet>
     <description><![CDATA[Full Name: Kathleen Matthews]]></description>
-    <styleUrl>#style145</styleUrl>
+    <styleUrl>#style144</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2013,7 +2004,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Confederation of Open Access Repositories, Göttingen State and University Library, Platz der Göttinger Sieben 1, 37073 Göttingen Germany</name>
     <Snippet>Full Name: Kathleen Shearer</Snippet>
     <description><![CDATA[Full Name: Kathleen Shearer]]></description>
-    <styleUrl>#style81</styleUrl>
+    <styleUrl>#style80</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2028,7 +2019,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Amherst College</name>
     <Snippet>Full Name: Kelcy Shepherd</Snippet>
     <description><![CDATA[Full Name: Kelcy Shepherd]]></description>
-    <styleUrl>#style147</styleUrl>
+    <styleUrl>#style146</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2058,7 +2049,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>University of Denver</name>
     <Snippet>Full Name: Kevin Clair</Snippet>
     <description><![CDATA[Full Name: Kevin Clair]]></description>
-    <styleUrl>#style136</styleUrl>
+    <styleUrl>#style135</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2103,7 +2094,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Emory University Libraries, 201 Dowman Drive, Atlanta, Ga. 30322</name>
     <Snippet>Full Name: Laura Akerman</Snippet>
     <description><![CDATA[Full Name: Laura Akerman]]></description>
-    <styleUrl>#style107</styleUrl>
+    <styleUrl>#style106</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2118,7 +2109,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Yale University</name>
     <Snippet>Full Name: Lec Maj</Snippet>
     <description><![CDATA[Full Name: Lec Maj]]></description>
-    <styleUrl>#style124</styleUrl>
+    <styleUrl>#style123</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2133,7 +2124,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>UniversitÃ© de Sherbrooke</name>
     <Snippet>Full Name: LÃ©on Robichaud</Snippet>
     <description><![CDATA[Full Name: LÃ©on Robichaud]]></description>
-    <styleUrl>#style87</styleUrl>
+    <styleUrl>#style86</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2148,7 +2139,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Memorial University of Newfoundland</name>
     <Snippet>Full Name: Lisa Goddard</Snippet>
     <description><![CDATA[Full Name: Lisa Goddard]]></description>
-    <styleUrl>#style120</styleUrl>
+    <styleUrl>#style119</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2238,7 +2229,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Kent State University, 800 E Summit St, Kent, OH 44240, United States</name>
     <Snippet>Full Name: Marcia Zeng</Snippet>
     <description><![CDATA[Full Name: Marcia Zeng]]></description>
-    <styleUrl>#style109</styleUrl>
+    <styleUrl>#style108</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2253,7 +2244,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>School of Information Studies, University of Wisconsin-Milwaukee</name>
     <Snippet>Full Name: Margaret Kipp</Snippet>
     <description><![CDATA[Full Name: Margaret Kipp]]></description>
-    <styleUrl>#style112</styleUrl>
+    <styleUrl>#style111</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2298,7 +2289,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>German National Library, Adickesallee 1, 60322 Frankfurt, Germany</name>
     <Snippet>Full Name: Markus Michael Geipel</Snippet>
     <description><![CDATA[Full Name: Markus Michael Geipel]]></description>
-    <styleUrl>#style75</styleUrl>
+    <styleUrl>#style74</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2328,7 +2319,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Pratt Institute</name>
     <Snippet>Full Name: Matt Miller</Snippet>
     <description><![CDATA[Full Name: Matt Miller]]></description>
-    <styleUrl>#style97</styleUrl>
+    <styleUrl>#style96</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2336,7 +2327,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
       </Data>
     </ExtendedData>
     <Point>
-      <coordinates>-73.962959,40.692184,0.000000</coordinates>
+      <coordinates>-73.999031,40.738094,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -2358,7 +2349,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>ÉcolePolytechnique de Montréal, Département de génie informatique, C.P. 6079 succ. Centre-ville, Montréal (Québec) Canada  H3C 3A7  </name>
     <Snippet>Full Name: Michel Gagnon</Snippet>
     <description><![CDATA[Full Name: Michel Gagnon]]></description>
-    <styleUrl>#style125</styleUrl>
+    <styleUrl>#style124</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2373,7 +2364,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Ryerson University</name>
     <Snippet>Full Name: MJ Suhonos</Snippet>
     <description><![CDATA[Full Name: MJ Suhonos]]></description>
-    <styleUrl>#style79</styleUrl>
+    <styleUrl>#style78</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2388,7 +2379,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>GNOSS, Piqueras Street, 31 4th floor, Logroño, La Rioja</name>
     <Snippet>Full Name: Pablo Hermoso de Mendoza</Snippet>
     <description><![CDATA[Full Name: Pablo Hermoso de Mendoza]]></description>
-    <styleUrl>#style116</styleUrl>
+    <styleUrl>#style115</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2403,7 +2394,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>BibliothÃ¨que et Archives nationales du QuÃ©bec (Library and National Archives of Quebec)</name>
     <Snippet>Full Name: Pat Riva</Snippet>
     <description><![CDATA[Full Name: Pat Riva]]></description>
-    <styleUrl>#style106</styleUrl>
+    <styleUrl>#style105</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2433,7 +2424,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>University of Southern California</name>
     <Snippet>Full Name: Pedro Szekely</Snippet>
     <description><![CDATA[Full Name: Pedro Szekely]]></description>
-    <styleUrl>#style117</styleUrl>
+    <styleUrl>#style116</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2493,7 +2484,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Digital Library Federation, 1707 L Street NW, Suite 650, Washington, DC 20036 </name>
     <Snippet>Full Name: Rachel Frick</Snippet>
     <description><![CDATA[Full Name: Rachel Frick]]></description>
-    <styleUrl>#style90</styleUrl>
+    <styleUrl>#style89</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2538,7 +2529,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Florida State Univeristy</name>
     <Snippet>Full Name: Richard Urban</Snippet>
     <description><![CDATA[Full Name: Richard Urban]]></description>
-    <styleUrl>#style134</styleUrl>
+    <styleUrl>#style133</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2568,7 +2559,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Columbia University, New York</name>
     <Snippet>Full Name: Robert Hilliker</Snippet>
     <description><![CDATA[Full Name: Robert Hilliker]]></description>
-    <styleUrl>#style83</styleUrl>
+    <styleUrl>#style82</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2583,7 +2574,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Carleton University</name>
     <Snippet>Full Name: Robert Warren</Snippet>
     <description><![CDATA[Full Name: Robert Warren]]></description>
-    <styleUrl>#style78</styleUrl>
+    <styleUrl>#style77</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2598,7 +2589,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>BnF, National Library of France </name>
     <Snippet>Full Name: Romain Wenz</Snippet>
     <description><![CDATA[Full Name: Romain Wenz]]></description>
-    <styleUrl>#style91</styleUrl>
+    <styleUrl>#style90</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2613,7 +2604,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>The University of Sydney</name>
     <Snippet>Full Name: Rowan Brownlee</Snippet>
     <description><![CDATA[Full Name: Rowan Brownlee]]></description>
-    <styleUrl>#style115</styleUrl>
+    <styleUrl>#style114</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2658,7 +2649,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>The Metropolitan Museum of Art</name>
     <Snippet>Full Name: Ryan Donahue</Snippet>
     <description><![CDATA[Full Name: Ryan Donahue]]></description>
-    <styleUrl>#style93</styleUrl>
+    <styleUrl>#style92</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2673,7 +2664,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>The Open Knowledge Foundation, St John’s Innovation Centre, Cowley Road, Cambridge, CB4 0WS, United Kingdom </name>
     <Snippet>Full Name: Sam Leon</Snippet>
     <description><![CDATA[Full Name: Sam Leon]]></description>
-    <styleUrl>#style85</styleUrl>
+    <styleUrl>#style84</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2718,7 +2709,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>UniversitÃ© Laval, 2325 Rue de l&#39;Université  Québec, QC G1V 0A6 </name>
     <Snippet>Full Name: SÃ©bastien Nadeau</Snippet>
     <description><![CDATA[Full Name: SÃ©bastien Nadeau]]></description>
-    <styleUrl>#style104</styleUrl>
+    <styleUrl>#style103</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2763,7 +2754,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>University of Nevada, Las Vegas</name>
     <Snippet>Full Name: Silvia Southwick</Snippet>
     <description><![CDATA[Full Name: Silvia Southwick]]></description>
-    <styleUrl>#style94</styleUrl>
+    <styleUrl>#style93</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2778,7 +2769,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Cornell University, New York</name>
     <Snippet>Full Name: Simeon Warner</Snippet>
     <description><![CDATA[Full Name: Simeon Warner]]></description>
-    <styleUrl>#style96</styleUrl>
+    <styleUrl>#style95</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2823,7 +2814,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Brown University, Providence, RI 02912</name>
     <Snippet>Full Name: Ted Lawless</Snippet>
     <description><![CDATA[Full Name: Ted Lawless]]></description>
-    <styleUrl>#style101</styleUrl>
+    <styleUrl>#style100</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2838,7 +2829,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>University of Colorado Boulder</name>
     <Snippet>Full Name: Thea Lindquist</Snippet>
     <description><![CDATA[Full Name: Thea Lindquist]]></description>
-    <styleUrl>#style102</styleUrl>
+    <styleUrl>#style101</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2910,21 +2901,6 @@ Therefore, if you want to edit the map but the original shared account is not gm
     </Point>
   </Placemark>
   <Placemark>
-    <name>Academia Sinica, Taipei, Taiwan</name>
-    <Snippet>Full Name: Tyng-Ruey Chuang</Snippet>
-    <description><![CDATA[Full Name: Tyng-Ruey Chuang]]></description>
-    <styleUrl>#style74</styleUrl>
-    <ExtendedData>
-      <Data name="string">
-        <displayName>Full Name</displayName>
-        <value>Tyng-Ruey Chuang</value>
-      </Data>
-    </ExtendedData>
-    <Point>
-      <coordinates>121.614487,25.043406,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Ontotext Corp, Polygraphia Office Center fl.4, 47A Tsarigradsko Shosse, Sofia 1124, Bulgaria</name>
     <Snippet>Full Name: Vladimir Alexiev</Snippet>
     <description><![CDATA[Full Name: Vladimir Alexiev]]></description>
@@ -2943,7 +2919,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>Mendeley, 360 Park Ave S, New York, NY 10010</name>
     <Snippet>Full Name: William Gunn</Snippet>
     <description><![CDATA[Full Name: William Gunn]]></description>
-    <styleUrl>#style146</styleUrl>
+    <styleUrl>#style145</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2958,7 +2934,7 @@ Therefore, if you want to edit the map but the original shared account is not gm
     <name>BBC R&amp;D, BBC Broadcasting House, Portland Place London W1A 1AA, London  </name>
     <Snippet>Full Name: Yves Raimond</Snippet>
     <description><![CDATA[Full Name: Yves Raimond]]></description>
-    <styleUrl>#style131</styleUrl>
+    <styleUrl>#style130</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>Full Name</displayName>
@@ -2990,7 +2966,7 @@ URL: <a href="http://openlibrary.org/data" target="_blank">http://openlibrary.or
     <Snippet>Institution /Address: British Museum URL: http://collection.britishmuseum.org/</Snippet>
     <description><![CDATA[Institution /Address: British Museum
 URL: <a href="http://collection.britishmuseum.org/" target="_blank">http://collection.britishmuseum.org/</a>]]></description>
-    <styleUrl>#style84</styleUrl>
+    <styleUrl>#style83</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3006,7 +2982,7 @@ URL: <a href="http://collection.britishmuseum.org/" target="_blank">http://colle
     <Snippet>Institution /Address: Boston Spa, Wetherby, West Yorkshire, LS23 7BQ, United Kin</Snippet>
     <description><![CDATA[Institution /Address: Boston Spa, Wetherby, West Yorkshire, LS23 7BQ, United Kingdom
 URL: <a href="http://bnb.data.bl.uk/" target="_blank">http://bnb.data.bl.uk/</a>]]></description>
-    <styleUrl>#style132</styleUrl>
+    <styleUrl>#style131</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3022,7 +2998,7 @@ URL: <a href="http://bnb.data.bl.uk/" target="_blank">http://bnb.data.bl.uk/</a>
     <Snippet>Institution /Address: The British Library URL: http://bnb.data.bl.uk/</Snippet>
     <description><![CDATA[Institution /Address: The British Library
 URL: <a href="http://bnb.data.bl.uk/" target="_blank">http://bnb.data.bl.uk/</a>]]></description>
-    <styleUrl>#style137</styleUrl>
+    <styleUrl>#style136</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3038,7 +3014,7 @@ URL: <a href="http://bnb.data.bl.uk/" target="_blank">http://bnb.data.bl.uk/</a>
     <Snippet>Institution /Address: Graz University of Technology URL: http://www.colinda.org/</Snippet>
     <description><![CDATA[Institution /Address: Graz University of Technology
 URL: <a href="http://www.colinda.org/index.html" target="_blank">http://www.colinda.org/index.html</a>]]></description>
-    <styleUrl>#style128</styleUrl>
+    <styleUrl>#style127</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3054,7 +3030,7 @@ URL: <a href="http://www.colinda.org/index.html" target="_blank">http://www.coli
     <Snippet>Institution /Address: Spanish National Library URL: http://datos.bne.es</Snippet>
     <description><![CDATA[Institution /Address: Spanish National Library
 URL: <a href="http://datos.bne.es" target="_blank">http://datos.bne.es</a>]]></description>
-    <styleUrl>#style144</styleUrl>
+    <styleUrl>#style143</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3070,7 +3046,7 @@ URL: <a href="http://datos.bne.es" target="_blank">http://datos.bne.es</a>]]></d
     <Snippet>Institution /Address: Universität Mannheim (Institut für Informatik und Wirtsc</Snippet>
     <description><![CDATA[Institution /Address: Universität Mannheim (Institut für Informatik und Wirtschaftsinformatik, B6, 26, Raum B1.21, D-68159 Mannheim)
 URL: <a href="http://datahub.io/dataset/fu-berlin-dblp" target="_blank">http://datahub.io/dataset/fu-berlin-dblp</a>]]></description>
-    <styleUrl>#style95</styleUrl>
+    <styleUrl>#style94</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3086,7 +3062,7 @@ URL: <a href="http://datahub.io/dataset/fu-berlin-dblp" target="_blank">http://d
     <Snippet>Institution /Address: School of Electronics and Computer Science, University of </Snippet>
     <description><![CDATA[Institution /Address: School of Electronics and Computer Science, University of Southampton, UK
 URL: <a href="http://dblp.rkbexplorer.com/" target="_blank">http://dblp.rkbexplorer.com/</a>]]></description>
-    <styleUrl>#style140</styleUrl>
+    <styleUrl>#style139</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3134,7 +3110,7 @@ URL: <a href="http://kasabi.com/dataset/english-heritage" target="_blank">http:/
     <Snippet>Institution /Address: (National Library of the Netherlands) Prins Willem-Alexand</Snippet>
     <description><![CDATA[Institution /Address: (National Library of the Netherlands) Prins Willem-Alexanderhof 5, 2595 BE Den Haag, Netherlands  
 URL: <a href="http://data.europeana.eu/" target="_blank">http://data.europeana.eu/</a>]]></description>
-    <styleUrl>#style88</styleUrl>
+    <styleUrl>#style87</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3182,7 +3158,7 @@ URL: <a href="http://ieeevis.tw.rpi.edu/index.html" target="_blank">http://ieeev
     <Snippet>Institution /Address: The J.UCS Consortium (Graz University of Technology, Graz)</Snippet>
     <description><![CDATA[Institution /Address: The J.UCS Consortium (Graz University of Technology, Graz) 
 URL: <a href="http://jucs.org:8181/d2rq/" target="_blank">http://jucs.org:8181/d2rq/</a>]]></description>
-    <styleUrl>#style103</styleUrl>
+    <styleUrl>#style102</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3198,7 +3174,7 @@ URL: <a href="http://jucs.org:8181/d2rq/" target="_blank">http://jucs.org:8181/d
     <Snippet>Institution /Address: The North Rhine-Westphalian Library Service Centre (hbz) (</Snippet>
     <description><![CDATA[Institution /Address: The North Rhine-Westphalian Library Service Centre (hbz) (Jülicher Straße 6, 50674, Köln, Deutschland)
 URL: <a href="http://thedatahub.org/dataset/hbz_unioncatalog" target="_blank">http://thedatahub.org/dataset/hbz_unioncatalog</a>]]></description>
-    <styleUrl>#style139</styleUrl>
+    <styleUrl>#style138</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3230,7 +3206,7 @@ URL: <a href="http://api.talis.com/stores/openlibrary" target="_blank">http://ap
     <Snippet>Institution /Address: School of Electronics and Computer Science, University of </Snippet>
     <description><![CDATA[Institution /Address: School of Electronics and Computer Science, University of Southampton, UK
 URL: <a href="http://www.rkbexplorer.com/data/" target="_blank">http://www.rkbexplorer.com/data/</a>]]></description>
-    <styleUrl>#style110</styleUrl>
+    <styleUrl>#style109</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3262,7 +3238,7 @@ URL: <a href="http://data.semanticuniverse.com" target="_blank">http://data.sema
     <Snippet>Institution /Address: SWSA (Semantic Web Science Association) c/o Institut AIFB,</Snippet>
     <description><![CDATA[Institution /Address: SWSA (Semantic Web Science Association) c/o Institut AIFB, Geb. 11.40 KIT – Campus Süd D-76128 Karlsruhe 
 URL: <a href="http://data.semanticweb.org" target="_blank">http://data.semanticweb.org</a>]]></description>
-    <styleUrl>#style77</styleUrl>
+    <styleUrl>#style76</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3294,7 +3270,7 @@ URL: <a href="http://www.ksamsok.se/in-english/" target="_blank">http://www.ksam
     <Snippet>Institution /Address: University of Massachusetts Amherst, Amherst, MA 01003, 18</Snippet>
     <description><![CDATA[Institution /Address: University of Massachusetts Amherst, Amherst, MA 01003, 181 Presidents Dr, Amherst, MA
 URL: <a href="http://www.lemurproject.org/clueweb09/" target="_blank">http://www.lemurproject.org/clueweb09/</a>]]></description>
-    <styleUrl>#style89</styleUrl>
+    <styleUrl>#style88</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3310,7 +3286,7 @@ URL: <a href="http://www.lemurproject.org/clueweb09/" target="_blank">http://www
     <Snippet>Institution /Address: Universität Trier (Universitätsring 15, 54296 Trier) URL</Snippet>
     <description><![CDATA[Institution /Address: Universität Trier (Universitätsring 15, 54296 Trier)
 URL: <a href="http://dblp.org/db/" target="_blank">http://dblp.org/db/</a>  ; <a href="http://dblp.uni-trier.de/xml/" target="_blank">http://dblp.uni-trier.de/xml/</a>]]></description>
-    <styleUrl>#style123</styleUrl>
+    <styleUrl>#style122</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3326,7 +3302,7 @@ URL: <a href="http://dblp.org/db/" target="_blank">http://dblp.org/db/</a>  ; <a
     <Snippet>Institution /Address: Birmingham, United Kingdom (Matthew Somerville)  URL: http</Snippet>
     <description><![CDATA[Institution /Address: Birmingham, United Kingdom (Matthew Somerville) 
 URL: <a href="http://theatricalia.com/search" target="_blank">http://theatricalia.com/search</a>]]></description>
-    <styleUrl>#style121</styleUrl>
+    <styleUrl>#style120</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3342,7 +3318,7 @@ URL: <a href="http://theatricalia.com/search" target="_blank">http://theatricali
     <Snippet>Institution /Address: Tyne &amp;amp; Wear Archives &amp;amp; Museums, Blandford Square, </Snippet>
     <description><![CDATA[Institution /Address: Tyne &amp; Wear Archives &amp; Museums, Blandford Square, Newcastle upon Tyne, NE1 4JA, UK
 URL: <a href="http://datahub.io/dataset/twam_imagine" target="_blank">http://datahub.io/dataset/twam_imagine</a>]]></description>
-    <styleUrl>#style118</styleUrl>
+    <styleUrl>#style117</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3374,7 +3350,7 @@ URL: <a href="http://vivoweb.org/" target="_blank">http://vivoweb.org/</a>]]></d
     <Snippet>Institution /Address: School of Electronics and Computer Science, University of </Snippet>
     <description><![CDATA[Institution /Address: School of Electronics and Computer Science, University of Southampton, UK
 URL: <a href="http://webscience.rkbexplorer.com" target="_blank">http://webscience.rkbexplorer.com</a>]]></description>
-    <styleUrl>#style76</styleUrl>
+    <styleUrl>#style75</styleUrl>
     <ExtendedData>
       <Data name="string">
         <displayName>URL</displayName>
@@ -3388,7 +3364,7 @@ URL: <a href="http://webscience.rkbexplorer.com" target="_blank">http://webscien
   <Placemark>
     <name>Mozaika, Sofia </name>
     <description><![CDATA[<div style="font-size:10pt"><br>&nbsp;</div><b><font size="4">Full Name: Mariana Damova</font></b><font size="2"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=42.693354,23.316314&amp;thumb=0"></font>]]></description>
-    <styleUrl>#style129</styleUrl>
+    <styleUrl>#style128</styleUrl>
     <Point>
       <coordinates>23.316315,42.693356,0.000000</coordinates>
     </Point>
@@ -3396,7 +3372,7 @@ URL: <a href="http://webscience.rkbexplorer.com" target="_blank">http://webscien
   <Placemark>
     <name>Data Bindery &amp; Data Curation Experts</name>
     <description><![CDATA[<div dir="ltr">Full Name: Matt Zumwalt<br><br>http://databindery.com<br>http://curationexperts.com</div>]]></description>
-    <styleUrl>#style105</styleUrl>
+    <styleUrl>#style104</styleUrl>
     <Point>
       <coordinates>-93.265472,44.981647,0.000000</coordinates>
     </Point>
